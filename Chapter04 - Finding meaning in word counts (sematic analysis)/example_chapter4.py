@@ -34,6 +34,22 @@ word_vector['lion'] = 0*topic['petness'] + 0.5*topic['animalness'] - 0.1*topic['
 word_vector['NYC'] = -0.2*topic['petness'] + 0.1*topic['animalness'] + 0.5*topic['cityness']
 word_vector['love'] = 0.2*topic['petness'] - 0.1*topic['animalness'] + 0.1*topic['cityness']
 
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+fig = plt.figure()
+ax = fig.gca(projection='3d')
+ax.set_xlim3d(0, 1)
+ax.set_ylim3d(0, 1)
+ax.set_zlim3d(0, 1)
+ax.quiver(0, 0, 0, 0.3, 0.1, 0.0, color = 'r', label ='cat')
+ax.quiver(0, 0, 0, 0.3, 0.1, -0.1, color = 'b', label ='dog')
+ax.quiver(0, 0, 0, 0, -0.1, 0.2, color = 'g', label ='apple')
+ax.quiver(0, 0, 0, 0, 0.5, -0.1, color = 'y', label ='lion')
+ax.quiver(0, 0, 0, -0.2, 0.1, 0.5, color = 'b', label ='NYC')
+ax.quiver(0, 0, 0, 0.2, -0.1, 0.1, color = 'orange', label ='love')
+plt.legend()
+plt.show()
+
 #### Algorithm for scoring topics
 # LSA - algorithm to analyze your tf-idf matrix to gather up words into topics
 # LSA also using dimension reducing technique - same math as PCA(principal component analysis)
