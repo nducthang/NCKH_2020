@@ -69,7 +69,7 @@ Có hai thuật toán giống với LSA, với cùng những ứng dụng trong 
 	1. Linear Discriminant analysis (LDA)
 	2. Latent Dirichlet allocation (LDiA)
 
-LDA phá vỡ một văn bản thành chỉ 1 topic. Còn LDiA thì giống LSA hơn bởi vì nó thể phá một văn bản thành số lượng topic tùy ý.
+LDA chia một văn bản thành chỉ 1 topic. Còn LDiA thì giống LSA hơn bởi vì nó thể chia một văn bản thành số lượng topic tùy ý.
 
 **TIP:** Bởi vì chỉ có 1 chiều, nên LDA không cần yêu cấu SVD (singular value decomposition). Bạn có thể chỉ tính toán centroid (trung bình hay kỳ vọng) của tất cả các vector TF-IDF cho mỗi vế của lớp nhị phân (như 0 - 1). Chiều sau đó trở thành tuyến tính (1 đường thằng) giữa 2 centroids. Sau đó, một vector TF-IDF thuộc về đường thằng đó ( dot product của vector TF-IDF với đường đó) cho ta biết sự gần với lớp này hay lớp kia. Phần còn lại của chapter là nói về implementation của các thuật toán LDA, LSA, LDiA theo thứ tự, áp dụng vào bài toán nhận biết tin nhắn SPAM.
 
@@ -78,8 +78,11 @@ Các cài đặt đều rất dễ hiểu, nhưng đối với dữ liệu SMS -
 
 #### 4.1.5 Mô hình LDA
 **Tóm Tắt:** Mô hình training chỉ gồm 3 bước sau :
+
 	1. Tính toán các vị trí trung bình (centroid) của tất cả các vectors TF-IDF trong một lớp (ở đây có 2 lớp, 0-1 ứng với NonSPAM-SPAM).
-	2. ính toán các vị trí trung bình (centroid) của tất cả các vectors TF-IDF trong lớp còn lại.
+
+	2. Tính toán các vị trí trung bình (centroid) của tất cả các vectors TF-IDF trong lớp còn lại.
+
 	3. Tính toán vector khác nhau (vector difference) giữa các centroids(đường thằng mà kết nối giữa chúng)
 
 **Nhận xét:** LDA là supervised algorithm, mục tiêu là đi tìm vector (đường thằng) giữa 2 centroids của lớp nhị phân, để dự đoán với mô hình này, bạn cần phải tìm ra rằng : một vector TF-IDF mới gần hơn số với centroid của một lớp (SPAM) này hơn gần hơn số với centroid của lớp (NonSPAM) kia.
