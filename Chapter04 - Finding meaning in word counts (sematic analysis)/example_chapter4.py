@@ -1,5 +1,3 @@
-
-
 ###  4.1. Topic vectors
 import numpy as np
 topic = {}
