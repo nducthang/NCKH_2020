@@ -6,7 +6,7 @@
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter02%20-%20Build%20your%20vocabulary%20(word%20tokenization)/04.%20VADER%20v%C3%A0%20Naive%20Bayes.ipynb">[Hoàn Thành] 04. VADER và Naive Bayes</a><br/>
 ## Chương 3:
 [Chưa Hoàn Thành] 05. Scrapy<br/>
-[Chưa Hoàn Thành] 06. TF-IDF
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter03%20-%20Math%20with%20words%20(TF-IDF%20vectors)/06.%20X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20TF-IDF.ipynb">[Hoàn Thành] 06. TF-IDF</a>
 ## Chương 4:
 ## Chương 5:
 ## Chương 6: 
