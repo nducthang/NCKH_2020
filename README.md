@@ -8,8 +8,8 @@
 [Chưa Hoàn Thành] 05. Scrapy<br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter03%20-%20Math%20with%20words%20(TF-IDF%20vectors)/06.%20X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20TF-IDF.ipynb">[Hoàn Thành] 06. TF-IDF</a>
 ## Chương 4:
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter04%20-%20Finding%20meaning%20in%20word%20counts%20(sematic%20analysis)/Ki%E1%BA%BFn%20th%E1%BB%A9c%20-%20B%C3%A0i%20t%E1%BA%ADp.ipynb">06. [Hoàn Thành] Phân tích ngữ nghĩa (SVD, PCA, LSA, LDA, LDiA)</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter04%20-%20Finding%20meaning%20in%20word%20counts%20(sematic%20analysis)/Solution2.ipynb">Lời giải bài tập</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter04%20-%20Finding%20meaning%20in%20word%20counts%20(sematic%20analysis)/Ki%E1%BA%BFn%20th%E1%BB%A9c%20-%20B%C3%A0i%20t%E1%BA%ADp.ipynb">07. [Hoàn Thành] Phân tích ngữ nghĩa (SVD, PCA, LSA, LDA, LDiA)</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter04%20-%20Finding%20meaning%20in%20word%20counts%20(sematic%20analysis)/Solution2.ipynb">Lời giải bài tập</a><br/>
 ## Chương 5:
-[Chưa Hoàn Thành] 06. Tensorflow
+[Chưa Hoàn Thành] 08. Tensorflow
 ## Chương 6: 
 ## Chương 7:
