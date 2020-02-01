@@ -11,7 +11,7 @@
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter04%20-%20Finding%20meaning%20in%20word%20counts%20(sematic%20analysis)/Ki%E1%BA%BFn%20th%E1%BB%A9c%20-%20B%C3%A0i%20t%E1%BA%ADp.ipynb">[Hoàn Thành] 07. Phân tích ngữ nghĩa (SVD, PCA, LSA, LDA, LDiA)</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter04%20-%20Finding%20meaning%20in%20word%20counts%20(sematic%20analysis)/Solution2.ipynb">Lời giải bài tập</a><br/>
 ## Chương 5:
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/01.%20Tensorflow%20v%C3%A0%20c%C3%A1c%20ki%E1%BA%BFn%20th%E1%BB%A9c%20c%C6%A1%20b%E1%BA%A3n.ipynb">[Hoàn Thành] 08. Tensorflow và các kiến thức cơ bản</a><br/>
-[Chưa Hoàn Thành] 09. Thực hành xây dựng mô hình Lỉnear Regression và Logistic Regression với Tensorflow <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/%2009.%20Th%E1%BB%B1c%20h%C3%A0nh%20x%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20Linear%20Regression%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 09. Thực hành xây dựng mô hình Linear Regression với Tensorflow</a> <br/>
 [Chưa Hoàn Thành] 10. Eager execution <br/>
 [Chưa Hoàn Thành] 11. Neural network <br/>
 [Chưa Hoàn Thành] 12. Xây dựng mạng neural với Tensorflow <br/>
