@@ -17,8 +17,12 @@ Solution: Bài 1 | <a href="https://github.com/nducthang/NCKH_2020/blob/master/C
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/%2009.%20Th%E1%BB%B1c%20h%C3%A0nh%20x%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20Linear%20Regression%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 09. Thực hành xây dựng mô hình Linear Regression với Tensorflow</a> <br/>
 Solution: <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/Solution_bai_1.ipynb">Bài 1</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/Solution_bai_2.py">Bài 2</a> | Bài 3a | Bài 3b | Bài 4 | Bài 5 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/10.%20Neural%20network.ipynb">[Hoàn Thành] 10. Neural network</a> <br/>
-Solution: Bài 1 | Bài 2 | Bài 3 <br/>
-[Chưa Hoàn Thành] 11. Eager execution <br/>
-[Chưa Hoàn Thành] 12. Xây dựng mạng neural với Tensorflow <br/>
+Solution: <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/Solution_10_1.ipynb">Bài 1</a> | Bài 2 | Bài 3 <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/11.%20X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20neural%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 11. Xây dựng mạng neural với Tensorflow </a><br/>
+Solution: Câu 1
 ## Chương 6: 
+[Chưa Hoàn Thành] 12. Word2Vec và FastText
+[Chưa Hoàn Thành] 13. Eager execution <br/>
 ## Chương 7:
+## Chương 8:
+## Chương 9:
