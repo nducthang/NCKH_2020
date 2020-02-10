@@ -21,8 +21,8 @@ Solution: <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%20-%20Baby%20steps%20with%20neural%20networks%20(perceptrons%20and%20backpropagation)/11.%20X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20neural%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 11. Xây dựng mạng neural với Tensorflow </a><br/>
 Solution: Bài 1
 ## Chương 6: 
-[Chưa Hoàn Thành] 12. Word2Vec và FastText <br/>
-[Chưa Hoàn Thành] 13. Eager execution <br/>
+[Chưa Hoàn Thành] 12. Word2Vec, Glove, Fasttext, Doc2Vec<br/>
+[Chưa Hoàn Thành] 13. Xây dựng mô hình Word2Vec với Tensorflow <br/>
 ## Chương 7:
 ## Chương 8:
 ## Chương 9:
