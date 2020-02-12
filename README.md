@@ -22,7 +22,7 @@ Solution: <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter05%
 Solution: Bài 1
 ## Chương 6: 
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter06%20-%20Reasoning%20with%20word%20vectors%20(Word2vec)/12.%20Word2Vec.ipynb">[Hoàn Thành] 12. Co-occurrence matrix, Word2Vec, Glove, Fasttext, Doc2Vec </a><br/>
-[Chưa Hoàn Thành] 13. Xây dựng mô hình Word2Vec với Tensorflow <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter06%20-%20Reasoning%20with%20word%20vectors%20(Word2vec)/13.%20X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20Word2vec%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 13. Xây dựng mô hình Word2Vec với Tensorflow</a> <br/>
 ## Chương 7:
 [Chưa Hoàn Thành] 14. CNN
 ## Chương 8:
