@@ -24,7 +24,7 @@ Solution: Bài 1
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter06%20-%20Reasoning%20with%20word%20vectors%20(Word2vec)/12.%20Word2Vec.ipynb">[Hoàn Thành] 12. Co-occurrence matrix, Word2Vec, Glove, Fasttext, Doc2Vec </a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter06%20-%20Reasoning%20with%20word%20vectors%20(Word2vec)/13.%20X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20Word2vec%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 13. Xây dựng mô hình Word2Vec với Tensorflow</a> <br/>
 ## Chương 7:
-[Chưa Hoàn Thành] 14. CNN <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter07%20-%20Getting%20words%20in%20order%20with%20convolucational%20neural%20networks%20(CNNs)/14.%20CNN.ipynb">[Hoàn Thành] 14. CNN </a><br/>
 [Chưa Hoàn Thành] 15. CNN với Tensorflow <br/>
 ## Chương 8:
 [Chưa Hoàn Thành] 16. RNN <br/>
@@ -33,6 +33,6 @@ Solution: Bài 1
 [Chưa Hoàn Thành] 19. RNN và LSTM với Tensorflow <br/>
 ## Chương 10
 [Chưa Hoàn Thành] 20. Seq2Seq <br/>
-[Chưa Hoàn Thành] 21. Crawl dữ liệu với Scarpy kết hợp Splash <br/>
+[Chưa Hoàn Thành] 21. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
 [Chưa Hoàn Thành] 22. Crawl dữ liệu với Request và Bautifulsoup  <br/>
-[Chưa Hoàn Thành] 23. Projec 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
+[Chưa Hoàn Thành] 23. Project 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
