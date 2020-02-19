@@ -25,7 +25,8 @@ Solution: Bài 1
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter06%20-%20Reasoning%20with%20word%20vectors%20(Word2vec)/13.%20X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20Word2vec%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 13. Xây dựng mô hình Word2Vec với Tensorflow</a> <br/>
 ## Chương 7:
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter07%20-%20Getting%20words%20in%20order%20with%20convolucational%20neural%20networks%20(CNNs)/14.%20CNN.ipynb">[Hoàn Thành] 14. CNN </a><br/>
-[Chưa Hoàn Thành] 15. CNN với Tensorflow <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter07%20-%20Getting%20words%20in%20order%20with%20convolucational%20neural%20networks%20(CNNs)/15.%20CNN%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 15. Xây dựng mô hình CNN với Tensorflow</a> <br/>
+Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 ## Chương 8:
 [Chưa Hoàn Thành] 16. RNN <br/>
 ## Chương 9:
