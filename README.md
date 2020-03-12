@@ -30,10 +30,25 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 ## Chương 8:
 [Chưa Hoàn Thành] 16. RNN <br/>
 ## Chương 9:
-[Chưa Hoàn Thành] 18. LSTM <br/>
-[Chưa Hoàn Thành] 19. RNN và LSTM với Tensorflow <br/>
+[Chưa Hoàn Thành] 17. LSTM <br/>
+[Chưa Hoàn Thành] 18. RNN và LSTM với Tensorflow <br/>
 ## Chương 10
-[Chưa Hoàn Thành] 20. Seq2Seq <br/>
-[Chưa Hoàn Thành] 21. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
-[Chưa Hoàn Thành] 22. Crawl dữ liệu với Request và Bautifulsoup  <br/>
-[Chưa Hoàn Thành] 23. Project 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
+[Chưa Hoàn Thành] 19. Seq2Seq <br/>
+[Chưa Hoàn Thành] 20. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
+[Chưa Hoàn Thành] 21. Crawl dữ liệu với Request và Bautifulsoup  <br/>
+## Chương 11
+[Chưa Hoàn Thành] 22. Project 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
+## Chương 12
+[Chưa Hoàn Thành] 23. Project 2 - Chatbot <br/>
+## Chương 13
+[Chưa Hoàn Thành] 24. Các phương pháp tối ưu Gradient Descent <br/>
+[Chưa Hoàn Thành] 25. Xử lý tối ưu trong NLP <br/>
+## Chương 14
+[Chưa Hoàn Thành] 26. Giới thiệu về Machine Learning và bài toán phân lớp <br/>
+[Chưa Hoàn Thành] 27. Linear Regression và Logistic Regress và các mở rộng <br/>
+[Chưa Hoàn Thành] 28. Support Vector Machine (SVM) <br/>
+[Chưa Hoàn Thành] 29. Decision Tree và Random Forest <br/>
+[Chưa Hoàn Thành] 30. Các phương pháp giảm chiều dữ liệu <br/>
+[Chưa Hoàn Thành] 31. Học không giám sát <br/>
+[Chưa Hoàn Thành] 32. Một số vấn đề về mạng Neural <br/>
+## Chương 15
