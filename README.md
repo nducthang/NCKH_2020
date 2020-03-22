@@ -54,7 +54,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 ## Chương 15
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20GUI%20trong%20OpenCV.ipynb">[Hoàn Thành] 33. Các đặc trưng của GUI trong OpenCV</a><br/>
 Solution: Bài 1 | Bài 2 | Bài 3 <br/>
-[Chưa Hoàn Thành] 34. Các toán tử <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20to%C3%A1n%20t%E1%BB%AD.ipynb">[Hoàn Thành] 34. Các toán tử</a> <br/>
 [Chưa Hoàn Thành] 35. Xử lý ảnh trong OpenCV <br/>
 [Chưa Hoàn Thành] 36. Trích xuất đặc trưng và mô tả <br/>
 [Chưa Hoàn Thành] 37. Phân tích video <br/>
