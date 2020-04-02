@@ -62,3 +62,6 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 39. Machine Learning với OpenCV <br/>
 [Chưa Hoàn Thành] 40. Các kỹ thuật khác <br/>
 [Chưa Hoàn Thành] 41. Trích xuất đối tượng (Object Detection) <br/>
+## Chương 16
+[Chưa Hoàn Thành] 42. Chuẩn bị dữ liệu ImageNet <br/>
+[Chưa Hoàn Thành] 43. AlexNet <br/>
