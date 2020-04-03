@@ -28,7 +28,7 @@ Solution: Bài 1
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter07%20-%20Getting%20words%20in%20order%20with%20convolucational%20neural%20networks%20(CNNs)/15.%20CNN%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 15. Xây dựng mô hình CNN với Tensorflow</a> <br/>
 Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 ## Chương 8:
-[Chưa Hoàn Thành] 16. RNN <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter08%20-%20Loopy%20(recurrrent)%20neural%20networks%20(RNNs)/16.%20RNN.ipynb">[Hoàn Thành] 16. RNN </a><br/>
 ## Chương 9:
 [Chưa Hoàn Thành] 17. LSTM <br/>
 [Chưa Hoàn Thành] 18. RNN và LSTM với Tensorflow <br/>
