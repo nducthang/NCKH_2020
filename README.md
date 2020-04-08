@@ -30,7 +30,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 ## Chương 8:
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter08%20-%20Loopy%20(recurrrent)%20neural%20networks%20(RNNs)/16.%20RNN.ipynb">[Hoàn Thành] 16. RNN </a><br/>
 ## Chương 9:
-[Chưa Hoàn Thành] 17. LSTM <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/LSTM.ipynb">[Hoàn Thành] 17. LSTM </a><br/>
 [Chưa Hoàn Thành] 18. RNN và LSTM với Tensorflow <br/>
 ## Chương 10
 [Chưa Hoàn Thành] 19. Seq2Seq <br/>
