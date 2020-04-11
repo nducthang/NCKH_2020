@@ -32,8 +32,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 ## Chương 9:
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/LSTM.ipynb">[Hoàn Thành] 17. LSTM </a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/LSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 18. LSTM với Tensorflow</a> <br/>
-[Chưa Hoàn Thành] 18. Bi-LSTM với Tensorflow <br/>
-[Chưa Hoàn Thành] 19. Dynamic LSTM với Tensorflow <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/BiLSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 19. Bi-LSTM với Tensorflow</a> <br/>
 ## Chương 10
 [Chưa Hoàn Thành] 20. Seq2Seq <br/>
 [Chưa Hoàn Thành] 21. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
