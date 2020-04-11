@@ -31,43 +31,45 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter08%20-%20Loopy%20(recurrrent)%20neural%20networks%20(RNNs)/16.%20RNN.ipynb">[Hoàn Thành] 16. RNN </a><br/>
 ## Chương 9:
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/LSTM.ipynb">[Hoàn Thành] 17. LSTM </a><br/>
-[Chưa Hoàn Thành] 18. RNN và LSTM với Tensorflow <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/LSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 18. LSTM với Tensorflow</a> <br/>
+[Chưa Hoàn Thành] 18. Bi-LSTM với Tensorflow <br/>
+[Chưa Hoàn Thành] 19. Dynamic LSTM với Tensorflow <br/>
 ## Chương 10
-[Chưa Hoàn Thành] 19. Seq2Seq <br/>
-[Chưa Hoàn Thành] 20. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
-[Chưa Hoàn Thành] 21. Crawl dữ liệu với Request và Bautifulsoup  <br/>
+[Chưa Hoàn Thành] 20. Seq2Seq <br/>
+[Chưa Hoàn Thành] 21. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
+[Chưa Hoàn Thành] 22. Crawl dữ liệu với Request và Bautifulsoup  <br/>
 ## Chương 11
-[Chưa Hoàn Thành] 22. Project 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
+[Chưa Hoàn Thành] 23. Project 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
 ## Chương 12
-[Chưa Hoàn Thành] 23. Project 2 - Chatbot <br/>
+[Chưa Hoàn Thành] 24. Project 2 - Chatbot <br/>
 ## Chương 13
-[Chưa Hoàn Thành] 24. Các phương pháp tối ưu Gradient Descent <br/>
-[Chưa Hoàn Thành] 25. Xử lý tối ưu trong NLP <br/>
+[Chưa Hoàn Thành] 25. Các phương pháp tối ưu Gradient Descent <br/>
+[Chưa Hoàn Thành] 26. Xử lý tối ưu trong NLP <br/>
 ## Chương 14
-[Chưa Hoàn Thành] 26. Giới thiệu về Machine Learning và bài toán phân lớp <br/>
-[Chưa Hoàn Thành] 27. Linear Regression và Logistic Regress và các mở rộng <br/>
-[Chưa Hoàn Thành] 28. Support Vector Machine (SVM) <br/>
-[Chưa Hoàn Thành] 29. Decision Tree và Random Forest <br/>
-[Chưa Hoàn Thành] 30. Các phương pháp giảm chiều dữ liệu <br/>
-[Chưa Hoàn Thành] 31. Học không giám sát <br/>
-[Chưa Hoàn Thành] 32. Một số vấn đề về mạng Neural <br/>
+[Chưa Hoàn Thành] 27. Giới thiệu về Machine Learning và bài toán phân lớp <br/>
+[Chưa Hoàn Thành] 28. Linear Regression và Logistic Regress và các mở rộng <br/>
+[Chưa Hoàn Thành] 29. Support Vector Machine (SVM) <br/>
+[Chưa Hoàn Thành] 30. Decision Tree và Random Forest <br/>
+[Chưa Hoàn Thành] 31. Các phương pháp giảm chiều dữ liệu <br/>
+[Chưa Hoàn Thành] 32. Học không giám sát <br/>
+[Chưa Hoàn Thành] 33. Một số vấn đề về mạng Neural <br/>
 ## Chương 15
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20GUI%20trong%20OpenCV.ipynb">[Hoàn Thành] 33. Các đặc trưng của GUI trong OpenCV</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20GUI%20trong%20OpenCV.ipynb">[Hoàn Thành] 34. Các đặc trưng của GUI trong OpenCV</a><br/>
 Solution: Bài 1 | Bài 2 | Bài 3 <br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20to%C3%A1n%20t%E1%BB%AD.ipynb">[Hoàn Thành] 34. Các toán tử</a> <br/>
-[Chưa Hoàn Thành] 35. Xử lý ảnh trong OpenCV <br/>
-[Chưa Hoàn Thành] 36. Trích xuất đặc trưng và mô tả <br/>
-[Chưa Hoàn Thành] 37. Phân tích video <br/>
-[Chưa Hoàn Thành] 38. Hiệu chỉnh camera và tái tạo 3D <br/>
-[Chưa Hoàn Thành] 39. Machine Learning với OpenCV <br/>
-[Chưa Hoàn Thành] 40. Các kỹ thuật khác <br/>
-[Chưa Hoàn Thành] 41. Trích xuất đối tượng (Object Detection) <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20to%C3%A1n%20t%E1%BB%AD.ipynb">[Hoàn Thành] 35. Các toán tử</a> <br/>
+[Chưa Hoàn Thành] 36. Xử lý ảnh trong OpenCV <br/>
+[Chưa Hoàn Thành] 37. Trích xuất đặc trưng và mô tả <br/>
+[Chưa Hoàn Thành] 38. Phân tích video <br/>
+[Chưa Hoàn Thành] 39. Hiệu chỉnh camera và tái tạo 3D <br/>
+[Chưa Hoàn Thành] 40. Machine Learning với OpenCV <br/>
+[Chưa Hoàn Thành] 41. Các kỹ thuật khác <br/>
+[Chưa Hoàn Thành] 42. Trích xuất đối tượng (Object Detection) <br/>
 ## Chương 16
-[Chưa Hoàn Thành] 42. Chuẩn bị dữ liệu ImageNet <br/>
-[Chưa Hoàn Thành] 43. AlexNet <br/>
-[Chưa Hoàn Thành] 44. VGGNet <br/>
-[Chưa Hoàn Thành] 45. GooLeNet <br/>
-[Chưa Hoàn Thành] 46. ResNet <br/>
-[Chưa Hoàn Thành] 47. SqueezeNet <br/>
-[Chưa Hoàn Thành] 48. Faster R-CNNs <br/>
-[Chưa Hoàn thành] 49. SSDs <br/>
+[Chưa Hoàn Thành] 43. Chuẩn bị dữ liệu ImageNet <br/>
+[Chưa Hoàn Thành] 44. AlexNet <br/>
+[Chưa Hoàn Thành] 45. VGGNet <br/>
+[Chưa Hoàn Thành] 46. GooLeNet <br/>
+[Chưa Hoàn Thành] 47. ResNet <br/>
+[Chưa Hoàn Thành] 48. SqueezeNet <br/>
+[Chưa Hoàn Thành] 49. Faster R-CNNs <br/>
+[Chưa Hoàn thành] 50. SSDs <br/>
