@@ -38,11 +38,11 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 [Chưa Hoàn Thành] 21. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
 [Chưa Hoàn Thành] 22. Crawl dữ liệu với Request và Bautifulsoup  <br/>
 ## Chương 11
-[Chưa Hoàn Thành] 23. Project 1 - Bài toán gán tag tự động (Nhận dạng thực thể trong câu) <br/>
+<a href="https://github.com/nducthang/Pos-tagging-tensorflow">[Hoàn Thành] 23. Project 1 - Bài toán gán nhãn từ loại trong câu (sử dụng Tensorflow)</a> <br/>
 ## Chương 12
 [Chưa Hoàn Thành] 24. Project 2 - Chatbot <br/>
 ## Chương 13
-[Chưa Hoàn Thành] 25. Các phương pháp tối ưu Gradient Descent <br/>
+<a href="https://github.com/nducthang/Optimization-DeepLearning-Vietnamese">[Hoàn Thành] 25. Các phương pháp tối ưu Gradient Descent</a> <br/>
 [Chưa Hoàn Thành] 26. Xử lý tối ưu trong NLP <br/>
 ## Chương 14
 [Chưa Hoàn Thành] 27. Giới thiệu về Machine Learning và bài toán phân lớp <br/>
