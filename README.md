@@ -64,14 +64,13 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 41. Các kỹ thuật khác <br/>
 [Chưa Hoàn Thành] 42. Trích xuất đối tượng (Object Detection) <br/>
 ## Chương 16
-[Chưa Hoàn Thành] 43. CNN (Bài viết tham khảo) <br/>
-[Chưa Hoàn Thành] 44. Tổng quan về các kiến trúc mạng CNN <br/>
-[Chưa Hoàn Thành] 45. Transfer learning <br/>
-[Chưa Hoàn Thành] 46. AlexNet <br/>
-[Chưa Hoàn Thành] 47. VGGNet <br/>
-[Chưa Hoàn Thành] 48. GooLeNet <br/>
-[Chưa Hoàn Thành] 49. ResNet <br/>
-[Chưa Hoàn Thành] 50. SqueezeNet <br/>
-[Chưa Hoàn Thành] 51. Faster R-CNNs <br/>
-[Chưa Hoàn Thành] 52. SSDs <br/>
-[Chưa Hoàn Thành] 53. Yolo <br/>
+[Chưa Hoàn Thành] 43. Tổng quan về các kiến trúc mạng CNN <br/>
+[Chưa Hoàn Thành] 44. Transfer learning <br/>
+[Chưa Hoàn Thành] 45. AlexNet <br/>
+[Chưa Hoàn Thành] 46. VGGNet <br/>
+[Chưa Hoàn Thành] 47. GooLeNet <br/>
+[Chưa Hoàn Thành] 48. ResNet <br/>
+[Chưa Hoàn Thành] 49. SqueezeNet <br/>
+[Chưa Hoàn Thành] 50. Faster R-CNNs <br/>
+[Chưa Hoàn Thành] 51. SSDs <br/>
+[Chưa Hoàn Thành] 52. YOLO <br/>
