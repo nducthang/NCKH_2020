@@ -64,7 +64,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 41. Các kỹ thuật khác <br/>
 [Chưa Hoàn Thành] 42. Trích xuất đối tượng (Object Detection) <br/>
 ## Chương 16
-[Chưa Hoàn Thành] 43. Các kiến trúc mạng CNN (AlexNet, VggNet, GooLeNet, ResNet, SqueezeNet<br/>
+[Chưa Hoàn Thành] 43. Các kiến trúc mạng CNN (AlexNet, VggNet, GooLeNet, ResNet, SqueezeNet)<br/>
 [Chưa Hoàn Thành] 44. Transfer learning <br/>
 <a href="https://github.com/nducthang/Detect-field">[Hoàn Thành] 45. Lý thuyết: Faster R-CNNs, Mask R-CNN</a>  <br/>
 [Chưa Hoàn Thành] 45. Code: Faster R-CNN, Mask R-CNN <br/>
