@@ -64,13 +64,13 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 41. Các kỹ thuật khác <br/>
 [Chưa Hoàn Thành] 42. Trích xuất đối tượng (Object Detection) <br/>
 ## Chương 16
-[Chưa Hoàn Thành] 43. Tổng quan về các kiến trúc mạng CNN <br/>
+[Chưa Hoàn Thành] 43. Các kiến trúc mạng CNN (AlexNet, VggNet, GooLeNet, ResNet, SqueezeNet<br/>
 [Chưa Hoàn Thành] 44. Transfer learning <br/>
-[Chưa Hoàn Thành] 45. AlexNet <br/>
-[Chưa Hoàn Thành] 46. VGGNet <br/>
-[Chưa Hoàn Thành] 47. GooLeNet <br/>
-[Chưa Hoàn Thành] 48. ResNet <br/>
-[Chưa Hoàn Thành] 49. SqueezeNet <br/>
-[Chưa Hoàn Thành] 50. Faster R-CNNs <br/>
-[Chưa Hoàn Thành] 51. SSDs <br/>
-[Chưa Hoàn Thành] 52. YOLO <br/>
+<a href="https://github.com/nducthang/Detect-field">[Hoàn Thành] 45. Lý thuyết: Faster R-CNNs, Mask R-CNN</a>  <br/>
+[Chưa Hoàn Thành] 45. Code: Faster R-CNN, Mask R-CNN <br/>
+[Chưa Hoàn Thành] 46. SSDs <br/>
+[Chưa Hoàn Thành] 47. YOLO <br/>
+## Chương 17
+<a href="https://github.com/nducthang/PageRank">[Hoàn Thành] 48. Thuật toán Pagerank</a><br/>
+[Chưa Hoàn Thành] 51. Mô hình Markov ẩn và ứng dụng trong bài toán gán nhãn từ loại<br/>
+[Chưa Hoàn Thành] 50. Mô hình mạng Bayes <br/>
