@@ -75,7 +75,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 ### Nội dung:
  - Đang update
  
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20Summary/Bao_cao_xu_ly_ngon_ngu_tu_nhien.pdf">[Hoàn Thành] 49. Xử lý ngôn ngữ tự nhiên (Phần 2)</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/Bao_cao_xu_ly_ngon_ngu_tu_nhien.pdf">[Hoàn Thành] 49. Xử lý ngôn ngữ tự nhiên (Phần 2)</a><br/>
 ### Nội dung:
 - Mô hình Markov ẩn
 - Bài toán POS Tagging
