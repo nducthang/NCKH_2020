@@ -71,9 +71,14 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 46. SSDs <br/>
 [Chưa Hoàn Thành] 47. YOLO <br/>
 ## Chương 17: Dịch sách Speech and Language Processing
-[Chưa Hoàn Thành] 48. Xử lý ngôn ngữ tự nhiên (Phần 1) <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP__Le_Hoang_Ngan.pdf">[Hoàn Thành] 48. Xử lý ngôn ngữ tự nhiên (Phần 1)</a> <br/>
 ### Nội dung:
- - Đang update
+ - Biểu thức chính quy, chuẩn hoá văn bản, khoảng cách Edit Distance
+ - Mô hình ngôn ngữ N-grams
+ - Sửa lỗi chính tả và kênh gây nhiễu
+ - Naive Bayes và bài toán phân loại cảm xúc
+ - Hồi quy Logistic
+ - Mạng Neural
  
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/Bao_cao_xu_ly_ngon_ngu_tu_nhien.pdf">[Hoàn Thành] 49. Xử lý ngôn ngữ tự nhiên (Phần 2)</a><br/>
 ### Nội dung:
