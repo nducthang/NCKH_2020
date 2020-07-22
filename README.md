@@ -89,13 +89,20 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 - Phân tích cú pháp thống kê
 - Phân tích cú pháp phụ thuộc
 
-[Chưa Hoàn Thành] 50. Xử lý ngôn ngữ tự nhiên (Phần 3) <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP_Giangtt.pdf">[Hoàn Thành] 50. Xử lý ngôn ngữ tự nhiên (Phần 3)</a> <br/>
 ### Nội dung:
-- Đang update
+- Vector sematics
+- Sematics with Dense vectors
+- Computing with word Senses
+- Lexicons for Sentiment and Affect Extraction
 
-[Chưa Hoàn Thành] 51. Xử lý ngôn ngữ tự nhiên (Phần 4) <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP_Haicm.pdf">[Hoàn Thành] 51. Xử lý ngôn ngữ tự nhiên (Phần 4)</a> <br/>
 ### Nội dung:
-- Đang update
+- Trích xuất thông tin
+- Gán nhãn vai trò
+- Trả lời câu hỏi
+- Hệ thống Dialog và Chatbot
+- Hệ thống Dialog nâng cao
 
 ## Chương 18
 <a href="https://github.com/nducthang/PageRank">[Hoàn Thành] 52. Thuật toán Pagerank</a><br/>
