@@ -1,0 +1,4 @@
+data_raw: lấy dữ liệu
+util: tiền xử lý dữ liệu
+model_tfidf: đưa dữ liệu về dạng chuẩn
+traning: luyện dữ liệu
