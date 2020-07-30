@@ -107,3 +107,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 ## Chương 18
 <a href="https://github.com/nducthang/PageRank">[Hoàn Thành] 52. Thuật toán Pagerank</a><br/>
 [Chưa Hoàn Thành] 53. Mô hình mạng Bayes <br/>
+
+## Phân loại sắc thái bình luận trong Tiếng Việt
+<a href="https://github.com/nducthang/NCKH_2020/tree/master/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 
+
