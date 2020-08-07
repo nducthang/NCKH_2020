@@ -109,4 +109,6 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/tree/master/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 53. Project - Phân loại sắc thái bình luận trong Tiếng Việt</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Introduction%20to%20Data%20Science/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 54. Các công cụ cho Data Science</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Introduction%20to%20Data%20Science/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 55. Thống kê mô tả</a><br/>
-
+[Chưa Hoàn Thành] 56. Streamlit <br/>
+[Chưa Hoàn Thành] 57. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng  <br/>
+[Chưa Hoàn Thành] 58. Polynote <br/>
