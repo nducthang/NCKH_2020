@@ -112,4 +112,5 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 56. Streamlit <br/>
 [Chưa Hoàn Thành] 57. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
 [Chưa Hoàn Thành] 58. Polynote <br/>
-[Chưa Hoàn Thành] 59. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
+[Chưa Hoàn Thành] 59. FastAPI <br/>
+[Chưa Hoàn Thành] 60. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
