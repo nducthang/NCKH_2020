@@ -106,11 +106,12 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 
 ## Chương 18: Tạp nham
 <a href="https://github.com/nducthang/PageRank">[Hoàn Thành] 52. Thuật toán Pagerank</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/tree/master/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 53. Project - Phân loại sắc thái bình luận trong Tiếng Việt</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Introduction%20to%20Data%20Science/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 54. Các công cụ cho Data Science</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Introduction%20to%20Data%20Science/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 55. Thống kê mô tả</a><br/>
-[Chưa Hoàn Thành] 56. Streamlit <br/>
-[Chưa Hoàn Thành] 57. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
-[Chưa Hoàn Thành] 58. Polynote <br/>
-[Chưa Hoàn Thành] 59. FastAPI <br/>
-[Chưa Hoàn Thành] 60. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
+<a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 53. Project - Phân loại sắc thái bình luận trong Tiếng Việt</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 54. Các công cụ cho Data Science</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 55. Thống kê mô tả</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 56. Decision Tree - ID3</a><br/>
+[Chưa Hoàn Thành] 57. Streamlit <br/>
+[Chưa Hoàn Thành] 58. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
+[Chưa Hoàn Thành] 59. Polynote <br/>
+[Chưa Hoàn Thành] 60. FastAPI <br/>
+[Chưa Hoàn Thành] 61. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
