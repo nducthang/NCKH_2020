@@ -111,15 +111,15 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 55. Thống kê mô tả</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 56. Decision Tree - ID3</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 57. Khai thác luật kết hợp Apriori</a><br/>
-[Chưa Hoàn Thành] 57. Streamlit <br/>
-[Chưa Hoàn Thành] 58. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
-[Chưa Hoàn Thành] 59. Polynote <br/>
-[Chưa Hoàn Thành] 60. FastAPI <br/>
-[Chưa Hoàn Thành] 61. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
-[Chưa Hoàn Thành] 62. Heatmap <br/>
-[Chưa Hoàn Thành] 62. Thuật toán phân cụm Annoy <br/>
-[Chưa Hoàn Thành] 63. K-Fold <br/>
-[Chưa Hoàn Thành] 64. Grid Search CV <br/>
-[Chưa Hoàn Thành] 65. Light-GBM <br/>
-[Chưa Hoàn Thành] 66. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
-[Chưa Hoàn Thành] 67. Crawl dữ liệu với Request và Bautifulsoup  <br/>
+[Chưa Hoàn Thành] 58. Streamlit <br/>
+[Chưa Hoàn Thành] 59. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
+[Chưa Hoàn Thành] 60. Polynote <br/>
+[Chưa Hoàn Thành] 61. FastAPI <br/>
+[Chưa Hoàn Thành] 62. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
+[Chưa Hoàn Thành] 63. Heatmap <br/>
+[Chưa Hoàn Thành] 64. Thuật toán phân cụm Annoy <br/>
+[Chưa Hoàn Thành] 65. K-Fold <br/>
+[Chưa Hoàn Thành] 66. Grid Search CV <br/>
+[Chưa Hoàn Thành] 67. Light-GBM <br/>
+[Chưa Hoàn Thành] 68. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
+[Chưa Hoàn Thành] 69. Crawl dữ liệu với Request và Bautifulsoup  <br/>
