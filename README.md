@@ -34,9 +34,9 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/LSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 18. LSTM với Tensorflow</a> <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/BiLSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 19. Bi-LSTM với Tensorflow</a> <br/>
 ## Chương 10: Mô hình Sequence to Sequence
-[Chưa Hoàn Thành] 20. Seq2Seq <br/>
-[Chưa Hoàn Thành] 21. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
-[Chưa Hoàn Thành] 22. Crawl dữ liệu với Request và Bautifulsoup  <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter10%20-%20Sequence-to-sequenct%20models%20and%20attention/Seq2seq.ipynb">[Hoàn Thành] 20. Seq2Seq </a><br/>
+[Chưa Hoàn Thành] 21. Cơ chế Attention (Soft-Attention) <br/>
+[Chưa Hoàn Thành] 22. Self-Attention và các biến thể của Attention <br/>
 ## Chương 11: POS Tagging
 <a href="https://github.com/nducthang/Pos-tagging-tensorflow">[Hoàn Thành] 23. Project 1 - Bài toán gán nhãn từ loại trong câu (sử dụng Tensorflow)</a> <br/>
 ## Chương 12: Chatbot
@@ -110,10 +110,16 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 54. Các công cụ cho Data Science</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 55. Thống kê mô tả</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 56. Decision Tree - ID3</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/Data_mining">[Hoàn Thành] 57. Data Mining </a><br/>
-
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 57. Khai thác luật kết hợp Apriori</a><br/>
 [Chưa Hoàn Thành] 57. Streamlit <br/>
 [Chưa Hoàn Thành] 58. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
 [Chưa Hoàn Thành] 59. Polynote <br/>
 [Chưa Hoàn Thành] 60. FastAPI <br/>
 [Chưa Hoàn Thành] 61. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
+[Chưa Hoàn Thành] 62. Heatmap <br/>
+[Chưa Hoàn Thành] 62. Thuật toán phân cụm Annoy <br/>
+[Chưa Hoàn Thành] 63. K-Fold <br/>
+[Chưa Hoàn Thành] 64. Grid Search CV <br/>
+[Chưa Hoàn Thành] 65. Light-GBM <br/>
+[Chưa Hoàn Thành] 66. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
+[Chưa Hoàn Thành] 67. Crawl dữ liệu với Request và Bautifulsoup  <br/>
