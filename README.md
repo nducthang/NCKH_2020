@@ -105,21 +105,31 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 - Hệ thống Dialog nâng cao
 
 ## Chương 18: Tạp nham
-<a href="https://github.com/nducthang/PageRank">[Hoàn Thành] 52. Thuật toán Pagerank</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 53. Project - Phân loại sắc thái bình luận trong Tiếng Việt</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 54. Các công cụ cho Data Science</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 55. Thống kê mô tả</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 56. Decision Tree - ID3</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 57. Khai thác luật kết hợp Apriori</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/LuatKetHop_Aprior.pdf">Báo cáo tham khảo</a><br/>
-[Chưa Hoàn Thành] 58. Streamlit <br/>
-[Chưa Hoàn Thành] 59. Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
-[Chưa Hoàn Thành] 60. Polynote <br/>
-[Chưa Hoàn Thành] 61. FastAPI <br/>
-[Chưa Hoàn Thành] 62. Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
-[Chưa Hoàn Thành] 63. Heatmap <br/>
-[Chưa Hoàn Thành] 64. Thuật toán phân cụm Annoy <br/>
-[Chưa Hoàn Thành] 65. K-Fold <br/>
-[Chưa Hoàn Thành] 66. Grid Search CV <br/>
-[Chưa Hoàn Thành] 67. Light-GBM <br/>
-[Chưa Hoàn Thành] 68. Crawl dữ liệu với Scrapy kết hợp Splash <br/>
-[Chưa Hoàn Thành] 69. Crawl dữ liệu với Request và Bautifulsoup  <br/>
+<a href="https://github.com/nducthang/PageRank">[Hoàn Thành] 18.1 Thuật toán Pagerank</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 18.2 Project - Phân loại sắc thái bình luận trong Tiếng Việt</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 18.3 Các công cụ cho Data Science</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 18.4 Thống kê mô tả</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 18.5 Decision Tree - ID3</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 18.6 Khai thác luật kết hợp Apriori</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/LuatKetHop_Aprior.pdf">Báo cáo tham khảo</a><br/>
+[Chưa Hoàn Thành] 18.7 Streamlit <br/>
+[Chưa Hoàn Thành] 18.8 Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
+[Chưa Hoàn Thành] 18.9 Polynote <br/>
+[Chưa Hoàn Thành] 18.10 FastAPI <br/>
+[Chưa Hoàn Thành] 18.11 Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
+[Chưa Hoàn Thành] 18.12 Heatmap <br/>
+[Chưa Hoàn Thành] 18.13 Thuật toán phân cụm Annoy <br/>
+[Chưa Hoàn Thành] 18.14 K-Fold <br/>
+[Chưa Hoàn Thành] 18.15 Grid Search CV <br/>
+[Chưa Hoàn Thành] 18.16 Light-GBM <br/>
+[Chưa Hoàn Thành] 18.17 Crawl dữ liệu với Scrapy kết hợp Splash <br/>
+[Chưa Hoàn Thành] 18.18 Crawl dữ liệu với Request và Bautifulsoup  <br/>
+[Chưa Hoàn Thành] 18.19 Self-training và Co-training cho học bán giám sát <br/>
+## Chương 19: Pytorch
+[Chưa Hoàn Thành] 19.1 Các khái niệm cơ bản trong Pytorch <br/>
+[Chưa Hoàn Thành] 19.2 Xây dựng mô hình hồi quy tuyến tính với Pytorch <br/>
+[Chưa Hoàn Thành] 19.3 Xây dựng mô hình CNN cho phân loại ảnh với Pytorch <br/>
+[Chưa Hoàn Thành] 19.4 Xây dựng mô hình RNN, LSTM với Pytorch <br/>
+[Chưa Hoàn Thành] 19.5 Xây dựng mô hình seq2seq, attention với Pytorch <br/>
+[Chưa Hoàn Thành] 19.6 Hook trong Pytorch <br/>
+[Chưa Hoàn Thành] 19.7 Torchtext module NLP<br/>
+[Chưa Hoàn Thành] 19.8 Tensorborad với Pytorch <br/>
