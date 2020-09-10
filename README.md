@@ -65,10 +65,10 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 ## Chương 16: Computer Vision
 [Chưa Hoàn Thành] 16.1 Các kiến trúc mạng CNN (AlexNet, VggNet, GooLeNet, ResNet, SqueezeNet)<br/>
 [Chưa Hoàn Thành] 16.2 Transfer learning <br/>
-<a href="https://github.com/nducthang/Detect-field">[Hoàn Thành] 45. Lý thuyết: Faster R-CNNs, Mask R-CNN</a>  <br/>
-[Chưa Hoàn Thành] 16.3 Code: Faster R-CNN, Mask R-CNN <br/>
-[Chưa Hoàn Thành] 16.4 SSDs <br/>
-[Chưa Hoàn Thành] 16.5 YOLO <br/>
+<a href="https://github.com/nducthang/Detect-field">[Hoàn Thành] 16.3 Lý thuyết: Faster R-CNNs, Mask R-CNN</a>  <br/>
+[Chưa Hoàn Thành] 16.4 Code: Faster R-CNN, Mask R-CNN <br/>
+[Chưa Hoàn Thành] 16.5 SSDs <br/>
+[Chưa Hoàn Thành] 16.6 YOLO <br/>
 ## Chương 17: Dịch sách Speech and Language Processing
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP__Le_Hoang_Ngan.pdf">[Hoàn Thành] 17.1 Xử lý ngôn ngữ tự nhiên (Phần 1)</a> <br/>
 ### Nội dung:
