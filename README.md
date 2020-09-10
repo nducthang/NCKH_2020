@@ -35,43 +35,42 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/BiLSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 19. Bi-LSTM với Tensorflow</a> <br/>
 ## Chương 10: Mô hình Sequence to Sequence
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter10%20-%20Sequence-to-sequenct%20models%20and%20attention/Seq2seq.ipynb">[Hoàn Thành] 20. Seq2Seq </a><br/>
-[Chưa Hoàn Thành] 21. Cơ chế Attention (Soft-Attention) <br/>
-[Chưa Hoàn Thành] 22. Self-Attention và các biến thể của Attention <br/>
+[Chưa Hoàn Thành] 21. Cơ chế Attention<br/>
 ## Chương 11: POS Tagging
-<a href="https://github.com/nducthang/Pos-tagging-tensorflow">[Hoàn Thành] 23. Project 1 - Bài toán gán nhãn từ loại trong câu (sử dụng Tensorflow)</a> <br/>
+<a href="https://github.com/nducthang/Pos-tagging-tensorflow">[Hoàn Thành] 22. Project 1 - Bài toán gán nhãn từ loại trong câu (sử dụng Tensorflow)</a> <br/>
 ## Chương 12: Chatbot
-[Chưa Hoàn Thành] 24. Project 2 - Chatbot <br/>
+[Chưa Hoàn Thành] 23. Project 2 - Chatbot <br/>
 ## Chương 13: Tối ưu
-<a href="https://github.com/nducthang/Optimization-DeepLearning-Vietnamese">[Hoàn Thành] 25. Các phương pháp tối ưu Gradient Descent</a> <br/>
-[Chưa Hoàn Thành] 26. Xử lý tối ưu trong NLP <br/>
+<a href="https://github.com/nducthang/Optimization-DeepLearning-Vietnamese">[Hoàn Thành] 24. Các phương pháp tối ưu Gradient Descent</a> <br/>
+[Chưa Hoàn Thành] 25. Xử lý tối ưu trong NLP <br/>
 ## Chương 14: Machine learning
-[Chưa Hoàn Thành] 27. Giới thiệu về Machine Learning và bài toán phân lớp <br/>
-[Chưa Hoàn Thành] 28. Linear Regression và Logistic Regress và các mở rộng <br/>
-[Chưa Hoàn Thành] 29. Support Vector Machine (SVM) <br/>
-[Chưa Hoàn Thành] 30. Decision Tree và Random Forest <br/>
-[Chưa Hoàn Thành] 31. Các phương pháp giảm chiều dữ liệu <br/>
-[Chưa Hoàn Thành] 32. Học không giám sát <br/>
-[Chưa Hoàn Thành] 33. Một số vấn đề về mạng Neural <br/>
+[Chưa Hoàn Thành] 14.1 Giới thiệu về Machine Learning và bài toán phân lớp <br/>
+[Chưa Hoàn Thành] 14.2 Linear Regression và Logistic Regress và các mở rộng <br/>
+[Chưa Hoàn Thành] 14.3 Support Vector Machine (SVM) <br/>
+[Chưa Hoàn Thành] 14.4 Decision Tree và Random Forest <br/>
+[Chưa Hoàn Thành] 14.5 Các phương pháp giảm chiều dữ liệu <br/>
+[Chưa Hoàn Thành] 14.6 Học không giám sát <br/>
+[Chưa Hoàn Thành] 14.7 Một số vấn đề về mạng Neural <br/>
 ## Chương 15: OpenCV
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20GUI%20trong%20OpenCV.ipynb">[Hoàn Thành] 34. Các đặc trưng của GUI trong OpenCV</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20GUI%20trong%20OpenCV.ipynb">[Hoàn Thành] 15.1 Các đặc trưng của GUI trong OpenCV</a><br/>
 Solution: Bài 1 | Bài 2 | Bài 3 <br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20to%C3%A1n%20t%E1%BB%AD.ipynb">[Hoàn Thành] 35. Các toán tử</a> <br/>
-[Chưa Hoàn Thành] 36. Xử lý ảnh trong OpenCV <br/>
-[Chưa Hoàn Thành] 37. Trích xuất đặc trưng và mô tả <br/>
-[Chưa Hoàn Thành] 38. Phân tích video <br/>
-[Chưa Hoàn Thành] 39. Hiệu chỉnh camera và tái tạo 3D <br/>
-[Chưa Hoàn Thành] 40. Machine Learning với OpenCV <br/>
-[Chưa Hoàn Thành] 41. Các kỹ thuật khác <br/>
-[Chưa Hoàn Thành] 42. Trích xuất đối tượng (Object Detection) <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter15%20-%20OpenCV/C%C3%A1c%20to%C3%A1n%20t%E1%BB%AD.ipynb">[Hoàn Thành] 15.2 Các toán tử</a> <br/>
+[Chưa Hoàn Thành] 15.3 Xử lý ảnh trong OpenCV <br/>
+[Chưa Hoàn Thành] 15.4 Trích xuất đặc trưng và mô tả <br/>
+[Chưa Hoàn Thành] 15.5 Phân tích video <br/>
+[Chưa Hoàn Thành] 15.6 Hiệu chỉnh camera và tái tạo 3D <br/>
+[Chưa Hoàn Thành] 15.7 Machine Learning với OpenCV <br/>
+[Chưa Hoàn Thành] 15.8 Các kỹ thuật khác <br/>
+[Chưa Hoàn Thành] 15.9 Trích xuất đối tượng (Object Detection) <br/>
 ## Chương 16: Computer Vision
-[Chưa Hoàn Thành] 43. Các kiến trúc mạng CNN (AlexNet, VggNet, GooLeNet, ResNet, SqueezeNet)<br/>
-[Chưa Hoàn Thành] 44. Transfer learning <br/>
+[Chưa Hoàn Thành] 16.1 Các kiến trúc mạng CNN (AlexNet, VggNet, GooLeNet, ResNet, SqueezeNet)<br/>
+[Chưa Hoàn Thành] 16.2 Transfer learning <br/>
 <a href="https://github.com/nducthang/Detect-field">[Hoàn Thành] 45. Lý thuyết: Faster R-CNNs, Mask R-CNN</a>  <br/>
-[Chưa Hoàn Thành] 45. Code: Faster R-CNN, Mask R-CNN <br/>
-[Chưa Hoàn Thành] 46. SSDs <br/>
-[Chưa Hoàn Thành] 47. YOLO <br/>
+[Chưa Hoàn Thành] 16.3 Code: Faster R-CNN, Mask R-CNN <br/>
+[Chưa Hoàn Thành] 16.4 SSDs <br/>
+[Chưa Hoàn Thành] 16.5 YOLO <br/>
 ## Chương 17: Dịch sách Speech and Language Processing
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP__Le_Hoang_Ngan.pdf">[Hoàn Thành] 48. Xử lý ngôn ngữ tự nhiên (Phần 1)</a> <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP__Le_Hoang_Ngan.pdf">[Hoàn Thành] 17.1 Xử lý ngôn ngữ tự nhiên (Phần 1)</a> <br/>
 ### Nội dung:
  - Biểu thức chính quy, chuẩn hoá văn bản, khoảng cách Edit Distance
  - Mô hình ngôn ngữ N-grams
@@ -80,7 +79,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
  - Hồi quy Logistic
  - Mạng Neural
  
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/Bao_cao_xu_ly_ngon_ngu_tu_nhien.pdf">[Hoàn Thành] 49. Xử lý ngôn ngữ tự nhiên (Phần 2)</a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/Bao_cao_xu_ly_ngon_ngu_tu_nhien.pdf">[Hoàn Thành] 17.2 Xử lý ngôn ngữ tự nhiên (Phần 2)</a><br/>
 ### Nội dung:
 - Mô hình Markov ẩn
 - Bài toán POS Tagging
@@ -89,14 +88,14 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 - Phân tích cú pháp thống kê
 - Phân tích cú pháp phụ thuộc
 
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP_Giangtt.pdf">[Hoàn Thành] 50. Xử lý ngôn ngữ tự nhiên (Phần 3)</a> <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP_Giangtt.pdf">[Hoàn Thành] 17.3 Xử lý ngôn ngữ tự nhiên (Phần 3)</a> <br/>
 ### Nội dung:
 - Vector sematics
 - Sematics with Dense vectors
 - Computing with word Senses
 - Lexicons for Sentiment and Affect Extraction
 
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP_Haicm.pdf">[Hoàn Thành] 51. Xử lý ngôn ngữ tự nhiên (Phần 4)</a> <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP_Haicm.pdf">[Hoàn Thành] 17.4 Xử lý ngôn ngữ tự nhiên (Phần 4)</a> <br/>
 ### Nội dung:
 - Trích xuất thông tin
 - Gán nhãn vai trò
@@ -131,5 +130,4 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 19.4 Xây dựng mô hình RNN, LSTM với Pytorch <br/>
 [Chưa Hoàn Thành] 19.5 Xây dựng mô hình seq2seq, attention với Pytorch <br/>
 [Chưa Hoàn Thành] 19.6 Hook trong Pytorch <br/>
-[Chưa Hoàn Thành] 19.7 Torchtext module NLP<br/>
-[Chưa Hoàn Thành] 19.8 Tensorborad với Pytorch <br/>
+[Chưa Hoàn Thành] 19.7 Tensorborad với Pytorch <br/>
