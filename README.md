@@ -110,14 +110,14 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 18.4 Thống kê mô tả</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 18.5 Decision Tree - ID3</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 18.6 Khai thác luật kết hợp Apriori</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/LuatKetHop_Aprior.pdf">Báo cáo tham khảo</a><br/>
-[Chưa Hoàn Thành] 18.7 Streamlit <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/K-fold.ipynb">[Hoàn Thành] 18.7 K-Fold Cross Validation</a><br/>
 [Chưa Hoàn Thành] 18.8 Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
 [Chưa Hoàn Thành] 18.9 Polynote <br/>
 [Chưa Hoàn Thành] 18.10 FastAPI <br/>
 [Chưa Hoàn Thành] 18.11 Họ mô hình ngôn ngữ BERT và ứng dụng <br/>
 [Chưa Hoàn Thành] 18.12 Heatmap <br/>
 [Chưa Hoàn Thành] 18.13 Thuật toán phân cụm Annoy <br/>
-[Chưa Hoàn Thành] 18.14 K-Fold <br/>
+[Chưa Hoàn Thành] 18.14 Streamlit <br/>
 [Chưa Hoàn Thành] 18.15 Grid Search CV <br/>
 [Chưa Hoàn Thành] 18.16 Light-GBM <br/>
 [Chưa Hoàn Thành] 18.17 Crawl dữ liệu với Scrapy kết hợp Splash <br/>
