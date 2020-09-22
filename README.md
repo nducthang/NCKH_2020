@@ -112,7 +112,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 18.6 Khai thác luật kết hợp Apriori</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/LuatKetHop_Aprior.pdf">Báo cáo tham khảo</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/K-fold.ipynb">[Hoàn Thành] 18.7 K-Fold Cross Validation</a><br/>
 <a href="https://github.com/nducthang/BERT-Tweet-Sentiment-Kaggle">[Hoàn Thành] 18.8 Họ mô hình ngôn ngữ BERT và ứng dụng</a><br/>
-[Chưa Hoàn Thành] 18.9 Polynote <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/NLP.pdf">[Hoàn Thành] 18.9 Word2vec (Tham khảo) - TS. Đặng Minh Tuấn</a><br/>
 [Chưa Hoàn Thành] 18.10 FastAPI <br/>
 [Chưa Hoàn Thành] 18.11 Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
 [Chưa Hoàn Thành] 18.12 Heatmap <br/>
@@ -123,6 +123,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 18.17 Crawl dữ liệu với Scrapy kết hợp Splash <br/>
 [Chưa Hoàn Thành] 18.18 Crawl dữ liệu với Request và Bautifulsoup  <br/>
 [Chưa Hoàn Thành] 18.19 Self-training và Co-training cho học bán giám sát <br/>
+[Chưa Hoàn Thành] 18.20 Polynote <br/>
 ## Chương 19: Pytorch
 [Chưa Hoàn Thành] 19.1 Các khái niệm cơ bản trong Pytorch <br/>
 [Chưa Hoàn Thành] 19.2 Xây dựng mô hình hồi quy tuyến tính với Pytorch <br/>
