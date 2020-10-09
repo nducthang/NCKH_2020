@@ -1,0 +1,1684 @@
+shrimp >>> 536
+
+almonds >>> 153
+
+avocado >>> 250
+
+vegetables mix >>> 193
+
+green grapes >>> 68
+
+whole weat flour >>> 70
+
+yams >>> 86
+
+cottage cheese >>> 239
+
+energy drink >>> 200
+
+tomato juice >>> 228
+
+low fat yogurt >>> 574
+
+green tea >>> 991
+
+honey >>> 356
+
+salad >>> 37
+
+mineral water >>> 1788
+
+salmon >>> 319
+
+antioxydant juice >>> 67
+
+frozen smoothie >>> 475
+
+spinach >>> 53
+
+olive oil >>> 494
+
+burgers >>> 654
+
+meatballs >>> 157
+
+eggs >>> 1348
+
+turkey >>> 469
+
+milk >>> 972
+
+energy bar >>> 203
+
+whole wheat rice >>> 439
+
+whole wheat pasta >>> 221
+
+french fries >>> 1282
+
+soup >>> 379
+
+light cream >>> 117
+
+shallot >>> 58
+
+frozen vegetables >>> 715
+
+spaghetti >>> 1306
+
+pet food >>> 49
+
+cookies >>> 603
+
+cooking oil >>> 383
+
+champagne >>> 351
+
+chocolate >>> 1230
+
+chicken >>> 450
+
+oil >>> 173
+
+fresh tuna >>> 167
+
+tomatoes >>> 513
+
+black tea >>> 107
+
+extra dark chocolate >>> 90
+
+protein bar >>> 139
+
+red wine >>> 211
+
+pasta >>> 118
+
+pepper >>> 199
+
+shampoo >>> 37
+
+rice >>> 141
+
+sparkling water >>> 47
+
+ham >>> 203
+
+body spray >>> 86
+
+pancakes >>> 713
+
+grated cheese >>> 393
+
+white wine >>> 124
+
+toothpaste >>> 61
+
+parmesan cheese >>> 149
+
+fresh bread >>> 323
+
+ground beef >>> 737
+
+escalope >>> 595
+
+herb & pepper >>> 371
+
+tomato sauce >>> 106
+
+magazines >>> 82
+
+strawberries >>> 160
+
+strong cheese >>> 58
+
+pickles >>> 45
+
+cake >>> 608
+
+hot dogs >>> 243
+
+brownies >>> 253
+
+cereals >>> 193
+
+clothes accessories >>> 63
+
+bug spray >>> 65
+
+muffins >>> 181
+
+light mayo >>> 204
+
+gums >>> 101
+
+soda >>> 47
+
+cider >>> 79
+
+corn >>> 36
+
+yogurt cake >>> 205
+
+mint >>> 131
+
+butter >>> 226
+
+asparagus >>> 35
+
+french wine >>> 169
+
+salt >>> 69
+
+barbecue sauce >>> 81
+
+mayonnaise >>> 46
+
+zucchini >>> 71
+
+carrots >>> 115
+
+mushroom cream sauce >>> 143
+
+candy bars >>> 73
+
+chili >>> 46
+
+nonfat milk >>> 78
+
+mint green tea >>> 42
+
+eggplant >>> 99
+
+blueberries >>> 69
+
+bacon >>> 65
+
+fromage blanc >>> 102
+
+gluten free bar >>> 52
+
+flax seed >>> 68
+
+hand protein bar >>> 39
+
+sandwich >>> 34
+
+babies food >>> 34
+
+melons >>> 90
+
+cauliflower >>> 36
+
+green beans >>> 65
+
+burger sauce >>> 44
+
+('frozen vegetables', 'milk') >>> 177
+
+('cooking oil', 'turkey') >>> 43
+
+('energy drink', 'french fries') >>> 46
+
+('pancakes', 'soup') >>> 51
+
+('ground beef', 'salmon') >>> 67
+
+('chocolate', 'cookies') >>> 78
+
+('frozen smoothie', 'low fat yogurt') >>> 55
+
+('oil', 'spaghetti') >>> 43
+
+('frozen smoothie', 'hot dogs') >>> 36
+
+('milk', 'shrimp') >>> 132
+
+('ground beef', 'turkey') >>> 69
+
+('chicken', 'pancakes') >>> 68
+
+('cereals', 'mineral water') >>> 77
+
+('chocolate', 'honey') >>> 60
+
+('spaghetti', 'tomato juice') >>> 56
+
+('champagne', 'green tea') >>> 62
+
+('chocolate', 'herb & pepper') >>> 68
+
+('eggs', 'grated cheese') >>> 68
+
+('eggs', 'parmesan cheese') >>> 34
+
+('pancakes', 'whole wheat pasta') >>> 35
+
+('burgers', 'soup') >>> 47
+
+('mineral water', 'tomato sauce') >>> 43
+
+('burgers', 'tomatoes') >>> 62
+
+('eggs', 'honey') >>> 43
+
+('french fries', 'ham') >>> 42
+
+('chicken', 'soup') >>> 45
+
+('cottage cheese', 'green tea') >>> 48
+
+('brownies', 'green tea') >>> 50
+
+('green tea', 'hot dogs') >>> 50
+
+('cooking oil', 'milk') >>> 86
+
+('frozen vegetables', 'green tea') >>> 108
+
+('green tea', 'soup') >>> 53
+
+('chocolate', 'light mayo') >>> 38
+
+('protein bar', 'spaghetti') >>> 38
+
+('shrimp', 'tomatoes') >>> 84
+
+('cake', 'tomatoes') >>> 63
+
+('hot dogs', 'mineral water') >>> 69
+
+('french fries', 'light mayo') >>> 55
+
+('burgers', 'low fat yogurt') >>> 50
+
+('spaghetti', 'vegetables mix') >>> 42
+
+('grated cheese', 'ground beef') >>> 85
+
+('butter', 'eggs') >>> 46
+
+('cake', 'olive oil') >>> 49
+
+('escalope', 'milk') >>> 58
+
+('chicken', 'olive oil') >>> 54
+
+('grated cheese', 'whole wheat rice') >>> 34
+
+('cottage cheese', 'milk') >>> 35
+
+('carrots', 'spaghetti') >>> 35
+
+('eggs', 'frozen vegetables') >>> 163
+
+('french fries', 'vegetables mix') >>> 42
+
+('eggs', 'french wine') >>> 45
+
+('frozen vegetables', 'low fat yogurt') >>> 76
+
+('cookies', 'low fat yogurt') >>> 40
+
+('frozen vegetables', 'honey') >>> 57
+
+('avocado', 'french fries') >>> 60
+
+('escalope', 'mineral water') >>> 128
+
+('extra dark chocolate', 'mineral water') >>> 43
+
+('frozen vegetables', 'parmesan cheese') >>> 41
+
+('french fries', 'fresh bread') >>> 62
+
+('french fries', 'hot dogs') >>> 55
+
+('cooking oil', 'eggs') >>> 88
+
+('frozen vegetables', 'tomato juice') >>> 37
+
+('chocolate', 'red wine') >>> 37
+
+('cooking oil', 'frozen smoothie') >>> 36
+
+('herb & pepper', 'spaghetti') >>> 122
+
+('chicken', 'chocolate') >>> 110
+
+('cake', 'grated cheese') >>> 36
+
+('fresh bread', 'green tea') >>> 48
+
+('escalope', 'frozen vegetables') >>> 57
+
+('tomatoes', 'turkey') >>> 49
+
+('eggs', 'olive oil') >>> 90
+
+('frozen vegetables', 'whole wheat rice') >>> 68
+
+('ham', 'mineral water') >>> 69
+
+('milk', 'whole wheat rice') >>> 89
+
+('fresh bread', 'spaghetti') >>> 68
+
+('green tea', 'salmon') >>> 44
+
+('frozen vegetables', 'pancakes') >>> 101
+
+('mineral water', 'yogurt cake') >>> 42
+
+('cereals', 'ground beef') >>> 34
+
+('light mayo', 'mineral water') >>> 47
+
+('soup', 'tomatoes') >>> 52
+
+('burgers', 'ground beef') >>> 90
+
+('light cream', 'spaghetti') >>> 40
+
+('french fries', 'shrimp') >>> 75
+
+('chocolate', 'milk') >>> 241
+
+('ground beef', 'low fat yogurt') >>> 72
+
+('spaghetti', 'whole wheat pasta') >>> 66
+
+('energy bar', 'french fries') >>> 36
+
+('chicken', 'herb & pepper') >>> 37
+
+('grated cheese', 'olive oil') >>> 47
+
+('meatballs', 'milk') >>> 41
+
+('cottage cheese', 'spaghetti') >>> 52
+
+('eggs', 'french fries') >>> 273
+
+('escalope', 'low fat yogurt') >>> 35
+
+('french fries', 'whole wheat pasta') >>> 41
+
+('low fat yogurt', 'mineral water') >>> 180
+
+('frozen smoothie', 'green tea') >>> 84
+
+('cake', 'turkey') >>> 52
+
+('eggs', 'whole wheat rice') >>> 82
+
+('black tea', 'mineral water') >>> 40
+
+('honey', 'mineral water') >>> 113
+
+('ground beef', 'pancakes') >>> 109
+
+('frozen smoothie', 'honey') >>> 44
+
+('fresh bread', 'frozen vegetables') >>> 51
+
+('cooking oil', 'tomatoes') >>> 50
+
+('frozen vegetables', 'herb & pepper') >>> 45
+
+('olive oil', 'shrimp') >>> 61
+
+('ground beef', 'tomato sauce') >>> 40
+
+('cooking oil', 'french fries') >>> 59
+
+('cooking oil', 'whole wheat rice') >>> 41
+
+('escalope', 'french fries') >>> 123
+
+('burgers', 'ham') >>> 42
+
+('cake', 'low fat yogurt') >>> 52
+
+('cooking oil', 'escalope') >>> 40
+
+('avocado', 'eggs') >>> 42
+
+('mineral water', 'tomato juice') >>> 72
+
+('green tea', 'red wine') >>> 35
+
+('frozen smoothie', 'ground beef') >>> 57
+
+('avocado', 'frozen smoothie') >>> 38
+
+('mineral water', 'strawberries') >>> 38
+
+('frozen vegetables', 'spaghetti') >>> 209
+
+('low fat yogurt', 'soup') >>> 43
+
+('fresh tuna', 'spaghetti') >>> 51
+
+('eggs', 'spaghetti') >>> 274
+
+('carrots', 'mineral water') >>> 40
+
+('cottage cheese', 'pancakes') >>> 39
+
+('cookies', 'green tea') >>> 90
+
+('butter', 'spaghetti') >>> 47
+
+('frozen vegetables', 'tomatoes') >>> 121
+
+('eggs', 'green tea') >>> 191
+
+('green tea', 'spaghetti') >>> 199
+
+('pancakes', 'turkey') >>> 72
+
+('brownies', 'mineral water') >>> 72
+
+('escalope', 'frozen smoothie') >>> 41
+
+('burgers', 'green tea') >>> 131
+
+('burgers', 'honey') >>> 47
+
+('light cream', 'mineral water') >>> 55
+
+('ground beef', 'whole wheat rice') >>> 61
+
+('chocolate', 'fresh tuna') >>> 36
+
+('chocolate', 'low fat yogurt') >>> 111
+
+('gums', 'mineral water') >>> 37
+
+('french fries', 'ground beef') >>> 104
+
+('cake', 'chicken') >>> 49
+
+('milk', 'tomato juice') >>> 43
+
+('green tea', 'mineral water') >>> 233
+
+('brownies', 'spaghetti') >>> 55
+
+('eggs', 'pepper') >>> 35
+
+('almonds', 'burgers') >>> 39
+
+('eggs', 'herb & pepper') >>> 94
+
+('chocolate', 'turkey') >>> 85
+
+('chicken', 'frozen vegetables') >>> 67
+
+('avocado', 'chocolate') >>> 53
+
+('french fries', 'strawberries') >>> 43
+
+('olive oil', 'pancakes') >>> 81
+
+('pancakes', 'tomato juice') >>> 37
+
+('mineral water', 'parmesan cheese') >>> 35
+
+('cake', 'soup') >>> 46
+
+('eggs', 'red wine') >>> 53
+
+('green tea', 'tomatoes') >>> 92
+
+('french fries', 'tomato juice') >>> 53
+
+('milk', 'pancakes') >>> 124
+
+('fresh tuna', 'pancakes') >>> 38
+
+('almonds', 'eggs') >>> 49
+
+('escalope', 'ground beef') >>> 62
+
+('champagne', 'spaghetti') >>> 50
+
+('grated cheese', 'turkey') >>> 37
+
+('champagne', 'frozen vegetables') >>> 36
+
+('frozen vegetables', 'ground beef') >>> 127
+
+('honey', 'pancakes') >>> 50
+
+('almonds', 'milk') >>> 39
+
+('cookies', 'eggs') >>> 79
+
+('pasta', 'shrimp') >>> 38
+
+('almonds', 'spaghetti') >>> 45
+
+('butter', 'milk') >>> 46
+
+('butter', 'green tea') >>> 55
+
+('french fries', 'pancakes') >>> 151
+
+('chicken', 'frozen smoothie') >>> 50
+
+('eggs', 'turkey') >>> 146
+
+('hot dogs', 'spaghetti') >>> 65
+
+('french fries', 'grated cheese') >>> 78
+
+('cake', 'ground beef') >>> 61
+
+('frozen vegetables', 'shrimp') >>> 125
+
+('ground beef', 'pepper') >>> 49
+
+('cereals', 'milk') >>> 53
+
+('ground beef', 'tomatoes') >>> 88
+
+('eggs', 'ham') >>> 47
+
+('green tea', 'olive oil') >>> 75
+
+('mineral water', 'protein bar') >>> 58
+
+('ground beef', 'spaghetti') >>> 294
+
+('frozen vegetables', 'olive oil') >>> 85
+
+('chocolate', 'rice') >>> 40
+
+('cake', 'mineral water') >>> 206
+
+('champagne', 'mineral water') >>> 56
+
+('cake', 'herb & pepper') >>> 34
+
+('burgers', 'olive oil') >>> 48
+
+('almonds', 'chocolate') >>> 45
+
+('eggs', 'escalope') >>> 83
+
+('ground beef', 'soup') >>> 73
+
+('chocolate', 'vegetables mix') >>> 36
+
+('soup', 'spaghetti') >>> 107
+
+('cooking oil', 'green tea') >>> 53
+
+('eggs', 'yogurt cake') >>> 34
+
+('champagne', 'french fries') >>> 70
+
+('escalope', 'mushroom cream sauce') >>> 43
+
+('french fries', 'salmon') >>> 44
+
+('escalope', 'pasta') >>> 44
+
+('fresh bread', 'tomatoes') >>> 35
+
+('frozen vegetables', 'soup') >>> 60
+
+('chocolate', 'ham') >>> 47
+
+('chocolate', 'soup') >>> 76
+
+('french wine', 'milk') >>> 37
+
+('chicken', 'turkey') >>> 36
+
+('chocolate', 'french fries') >>> 258
+
+('chocolate', 'frozen vegetables') >>> 172
+
+('cooking oil', 'mineral water') >>> 151
+
+('pancakes', 'pepper') >>> 36
+
+('avocado', 'green tea') >>> 47
+
+('grated cheese', 'green tea') >>> 59
+
+('olive oil', 'whole wheat pasta') >>> 60
+
+('almonds', 'green tea') >>> 38
+
+('green tea', 'whole wheat rice') >>> 68
+
+('fresh bread', 'olive oil') >>> 38
+
+('frozen smoothie', 'salmon') >>> 38
+
+('burgers', 'shrimp') >>> 66
+
+('mineral water', 'whole wheat rice') >>> 151
+
+('ham', 'spaghetti') >>> 69
+
+('brownies', 'chocolate') >>> 37
+
+('green tea', 'turkey') >>> 89
+
+('olive oil', 'soup') >>> 67
+
+('frozen smoothie', 'olive oil') >>> 52
+
+('milk', 'whole wheat pasta') >>> 74
+
+('french fries', 'milk') >>> 178
+
+('pancakes', 'shrimp') >>> 79
+
+('milk', 'soup') >>> 114
+
+('eggs', 'tomatoes') >>> 92
+
+('chocolate', 'cooking oil') >>> 102
+
+('french fries', 'mushroom cream sauce') >>> 35
+
+('burgers', 'turkey') >>> 80
+
+('french fries', 'frozen smoothie') >>> 109
+
+('fresh bread', 'mineral water') >>> 100
+
+('salmon', 'tomatoes') >>> 37
+
+('chocolate', 'whole wheat pasta') >>> 47
+
+('chocolate', 'tomato sauce') >>> 38
+
+('cake', 'frozen vegetables') >>> 77
+
+('avocado', 'milk') >>> 56
+
+('cookies', 'french fries') >>> 100
+
+('green tea', 'tomato juice') >>> 47
+
+('grated cheese', 'low fat yogurt') >>> 42
+
+('eggs', 'whole wheat pasta') >>> 37
+
+('grated cheese', 'mineral water') >>> 131
+
+('french fries', 'rice') >>> 36
+
+('low fat yogurt', 'olive oil') >>> 51
+
+('chicken', 'tomatoes') >>> 48
+
+('red wine', 'spaghetti') >>> 77
+
+('cooking oil', 'grated cheese') >>> 43
+
+('burgers', 'french fries') >>> 165
+
+('ground beef', 'herb & pepper') >>> 120
+
+('green tea', 'ground beef') >>> 111
+
+('green tea', 'pancakes') >>> 123
+
+('burgers', 'salmon') >>> 34
+
+('frozen smoothie', 'shrimp') >>> 55
+
+('cake', 'whole wheat rice') >>> 58
+
+('burgers', 'spaghetti') >>> 161
+
+('eggs', 'mineral water') >>> 382
+
+('milk', 'olive oil') >>> 128
+
+('green tea', 'honey') >>> 70
+
+('cookies', 'spaghetti') >>> 60
+
+('mineral water', 'pepper') >>> 62
+
+('chocolate', 'mineral water') >>> 395
+
+('tomatoes', 'whole wheat rice') >>> 45
+
+('cake', 'cooking oil') >>> 37
+
+('mineral water', 'whole wheat pasta') >>> 72
+
+('cereals', 'pancakes') >>> 35
+
+('ground beef', 'milk') >>> 165
+
+('frozen vegetables', 'salmon') >>> 47
+
+('chocolate', 'grated cheese') >>> 82
+
+('french fries', 'spaghetti') >>> 207
+
+('honey', 'turkey') >>> 43
+
+('frozen vegetables', 'grated cheese') >>> 51
+
+('frozen vegetables', 'whole wheat pasta') >>> 37
+
+('cooking oil', 'herb & pepper') >>> 40
+
+('french fries', 'frozen vegetables') >>> 143
+
+('low fat yogurt', 'shrimp') >>> 47
+
+('chocolate', 'spaghetti') >>> 294
+
+('chicken', 'french fries') >>> 83
+
+('mineral water', 'soup') >>> 173
+
+('ground beef', 'red wine') >>> 36
+
+('burgers', 'cake') >>> 86
+
+('burgers', 'cooking oil') >>> 43
+
+('chicken', 'eggs') >>> 108
+
+('ground beef', 'mineral water') >>> 307
+
+('mineral water', 'rice') >>> 58
+
+('chocolate', 'french wine') >>> 39
+
+('mineral water', 'mint') >>> 44
+
+('mineral water', 'turkey') >>> 144
+
+('herb & pepper', 'shrimp') >>> 53
+
+('chicken', 'cooking oil') >>> 51
+
+('grated cheese', 'salmon') >>> 39
+
+('milk', 'pepper') >>> 38
+
+('burgers', 'eggs') >>> 216
+
+('cake', 'pancakes') >>> 89
+
+('milk', 'spaghetti') >>> 266
+
+('cooking oil', 'spaghetti') >>> 119
+
+('energy drink', 'mineral water') >>> 42
+
+('frozen smoothie', 'spaghetti') >>> 117
+
+('low fat yogurt', 'whole wheat rice') >>> 49
+
+('eggs', 'low fat yogurt') >>> 126
+
+('chicken', 'milk') >>> 111
+
+('butter', 'french fries') >>> 46
+
+('honey', 'spaghetti') >>> 89
+
+('french fries', 'herb & pepper') >>> 52
+
+('shrimp', 'whole wheat rice') >>> 44
+
+('brownies', 'cake') >>> 41
+
+('olive oil', 'spaghetti') >>> 172
+
+('herb & pepper', 'turkey') >>> 36
+
+('turkey', 'whole wheat rice') >>> 53
+
+('eggs', 'light mayo') >>> 41
+
+('chocolate', 'olive oil') >>> 123
+
+('cake', 'frozen smoothie') >>> 48
+
+('eggs', 'soup') >>> 68
+
+('fresh bread', 'pancakes') >>> 40
+
+('milk', 'turkey') >>> 85
+
+('cake', 'eggs') >>> 143
+
+('cereals', 'green tea') >>> 49
+
+('spaghetti', 'whole wheat rice') >>> 106
+
+('salmon', 'spaghetti') >>> 101
+
+('brownies', 'ground beef') >>> 37
+
+('low fat yogurt', 'milk') >>> 99
+
+('eggs', 'vegetables mix') >>> 36
+
+('french wine', 'mineral water') >>> 62
+
+('shrimp', 'spaghetti') >>> 159
+
+('burgers', 'escalope') >>> 53
+
+('cooking oil', 'soup') >>> 40
+
+('grated cheese', 'spaghetti') >>> 124
+
+('green tea', 'vegetables mix') >>> 38
+
+('pancakes', 'whole wheat rice') >>> 52
+
+('eggs', 'fresh bread') >>> 65
+
+('french fries', 'turkey') >>> 80
+
+('herb & pepper', 'milk') >>> 69
+
+('chocolate', 'oil') >>> 46
+
+('light mayo', 'pancakes') >>> 41
+
+('meatballs', 'mineral water') >>> 58
+
+('spaghetti', 'tomato sauce') >>> 47
+
+('shrimp', 'soup') >>> 42
+
+('burgers', 'cookies') >>> 42
+
+('brownies', 'milk') >>> 41
+
+('french fries', 'olive oil') >>> 69
+
+('chocolate', 'shrimp') >>> 135
+
+('cake', 'milk') >>> 100
+
+('chocolate', 'pepper') >>> 48
+
+('cereals', 'chocolate') >>> 42
+
+('chicken', 'shrimp') >>> 47
+
+('mineral water', 'vegetables mix') >>> 59
+
+('chocolate', 'eggs') >>> 249
+
+('mineral water', 'olive oil') >>> 207
+
+('cooking oil', 'frozen vegetables') >>> 51
+
+('grated cheese', 'herb & pepper') >>> 49
+
+('champagne', 'milk') >>> 40
+
+('energy bar', 'milk') >>> 41
+
+('salmon', 'shrimp') >>> 35
+
+('eggs', 'shrimp') >>> 106
+
+('chicken', 'fresh bread') >>> 39
+
+('frozen vegetables', 'turkey') >>> 66
+
+('avocado', 'mineral water') >>> 87
+
+('french fries', 'yogurt cake') >>> 38
+
+('cake', 'french fries') >>> 134
+
+('burgers', 'chocolate') >>> 128
+
+('ground beef', 'whole wheat pasta') >>> 34
+
+('cereals', 'spaghetti') >>> 50
+
+('chocolate', 'cottage cheese') >>> 37
+
+('mineral water', 'oil') >>> 55
+
+('green tea', 'low fat yogurt') >>> 57
+
+('chicken', 'ground beef') >>> 71
+
+('avocado', 'frozen vegetables') >>> 35
+
+('almonds', 'mineral water') >>> 57
+
+('rice', 'spaghetti') >>> 38
+
+('eggs', 'ground beef') >>> 150
+
+('french wine', 'spaghetti') >>> 58
+
+('shrimp', 'turkey') >>> 48
+
+('french fries', 'honey') >>> 67
+
+('chocolate', 'green tea') >>> 176
+
+('pancakes', 'spaghetti') >>> 189
+
+('grated cheese', 'milk') >>> 59
+
+('burgers', 'grated cheese') >>> 41
+
+('olive oil', 'turkey') >>> 40
+
+('escalope', 'green tea') >>> 67
+
+('mineral water', 'shrimp') >>> 177
+
+('cookies', 'mineral water') >>> 56
+
+('mineral water', 'red wine') >>> 82
+
+('chicken', 'spaghetti') >>> 129
+
+('honey', 'milk') >>> 58
+
+('low fat yogurt', 'pancakes') >>> 71
+
+('mineral water', 'pancakes') >>> 253
+
+('green tea', 'herb & pepper') >>> 48
+
+('eggs', 'milk') >>> 231
+
+('brownies', 'pancakes') >>> 41
+
+('fresh bread', 'milk') >>> 69
+
+('grated cheese', 'pancakes') >>> 52
+
+('french fries', 'muffins') >>> 40
+
+('escalope', 'grated cheese') >>> 36
+
+('chicken', 'mineral water') >>> 171
+
+('herb & pepper', 'low fat yogurt') >>> 44
+
+('cake', 'chocolate') >>> 102
+
+('cottage cheese', 'mineral water') >>> 72
+
+('eggs', 'frozen smoothie') >>> 83
+
+('green tea', 'whole wheat pasta') >>> 39
+
+('mineral water', 'spaghetti') >>> 448
+
+('low fat yogurt', 'spaghetti') >>> 114
+
+('burgers', 'whole wheat rice') >>> 67
+
+('chocolate', 'tomato juice') >>> 44
+
+('green tea', 'shrimp') >>> 86
+
+('cottage cheese', 'french fries') >>> 44
+
+('frozen smoothie', 'pancakes') >>> 68
+
+('eggs', 'pancakes') >>> 163
+
+('green tea', 'pepper') >>> 39
+
+('eggs', 'energy bar') >>> 39
+
+('cooking oil', 'low fat yogurt') >>> 49
+
+('cereals', 'french fries') >>> 36
+
+('burgers', 'frozen smoothie') >>> 54
+
+('pancakes', 'tomatoes') >>> 74
+
+('low fat yogurt', 'turkey') >>> 38
+
+('mineral water', 'salmon') >>> 128
+
+('french fries', 'mineral water') >>> 253
+
+('chocolate', 'pancakes') >>> 149
+
+('spaghetti', 'turkey') >>> 124
+
+('burgers', 'milk') >>> 134
+
+('cooking oil', 'ground beef') >>> 63
+
+('cooking oil', 'pancakes') >>> 59
+
+('chocolate', 'escalope') >>> 132
+
+('avocado', 'burgers') >>> 34
+
+('escalope', 'spaghetti') >>> 105
+
+('soup', 'turkey') >>> 37
+
+('mineral water', 'nonfat milk') >>> 38
+
+('cooking oil', 'olive oil') >>> 38
+
+('herb & pepper', 'mineral water') >>> 128
+
+('escalope', 'whole wheat rice') >>> 39
+
+('green tea', 'milk') >>> 132
+
+('avocado', 'spaghetti') >>> 60
+
+('cooking oil', 'shrimp') >>> 45
+
+('black tea', 'spaghetti') >>> 34
+
+('fromage blanc', 'mineral water') >>> 34
+
+('frozen smoothie', 'whole wheat rice') >>> 45
+
+('cookies', 'pancakes') >>> 39
+
+('eggs', 'fresh tuna') >>> 44
+
+('eggs', 'salmon') >>> 62
+
+('chicken', 'whole wheat rice') >>> 41
+
+('ground beef', 'olive oil') >>> 106
+
+('cake', 'green tea') >>> 106
+
+('spaghetti', 'tomatoes') >>> 157
+
+('green tea', 'ham') >>> 37
+
+('parmesan cheese', 'spaghetti') >>> 51
+
+('frozen smoothie', 'frozen vegetables') >>> 75
+
+('burgers', 'pancakes') >>> 79
+
+('french fries', 'whole wheat rice') >>> 79
+
+('fresh bread', 'shrimp') >>> 39
+
+('frozen vegetables', 'mineral water') >>> 268
+
+('honey', 'olive oil') >>> 36
+
+('chocolate', 'whole wheat rice') >>> 90
+
+('chicken', 'light cream') >>> 34
+
+('chocolate', 'salmon') >>> 80
+
+('energy bar', 'mineral water') >>> 51
+
+('butter', 'chocolate') >>> 62
+
+('milk', 'tomatoes') >>> 105
+
+('french fries', 'low fat yogurt') >>> 100
+
+('frozen smoothie', 'milk') >>> 107
+
+('fresh bread', 'ground beef') >>> 46
+
+('chocolate', 'fresh bread') >>> 71
+
+('burgers', 'mineral water') >>> 183
+
+('chocolate', 'frozen smoothie') >>> 112
+
+('cottage cheese', 'frozen smoothie') >>> 37
+
+('brownies', 'eggs') >>> 55
+
+('cake', 'shrimp') >>> 57
+
+('cottage cheese', 'eggs') >>> 42
+
+('low fat yogurt', 'tomatoes') >>> 45
+
+('mineral water', 'tomatoes') >>> 183
+
+('herb & pepper', 'pancakes') >>> 55
+
+('french fries', 'soup') >>> 57
+
+('escalope', 'pancakes') >>> 44
+
+('ground beef', 'shrimp') >>> 86
+
+('ground beef', 'ham') >>> 37
+
+('olive oil', 'salmon') >>> 43
+
+('black tea', 'eggs') >>> 37
+
+('french fries', 'tomatoes') >>> 90
+
+('champagne', 'eggs') >>> 50
+
+('fresh tuna', 'mineral water') >>> 66
+
+('champagne', 'frozen smoothie') >>> 35
+
+('french fries', 'green tea') >>> 214
+
+('escalope', 'tomatoes') >>> 41
+
+('champagne', 'chocolate') >>> 87
+
+('milk', 'salmon') >>> 73
+
+('burgers', 'frozen vegetables') >>> 79
+
+('ham', 'pancakes') >>> 34
+
+('herb & pepper', 'olive oil') >>> 38
+
+('champagne', 'pancakes') >>> 38
+
+('olive oil', 'tomatoes') >>> 54
+
+('cake', 'spaghetti') >>> 136
+
+('pepper', 'spaghetti') >>> 74
+
+('honey', 'tomatoes') >>> 40
+
+('frozen smoothie', 'tomatoes') >>> 49
+
+('burgers', 'chicken') >>> 47
+
+('chocolate', 'ground beef') >>> 173
+
+('ham', 'milk') >>> 37
+
+('chicken', 'green tea') >>> 89
+
+('milk', 'mineral water') >>> 360
+
+('spaghetti', 'white wine') >>> 34
+
+('frozen smoothie', 'mineral water') >>> 152
+
+('chocolate', 'hot dogs') >>> 41
+
+('ground beef', 'honey') >>> 51
+
+('eggs', 'energy drink') >>> 37
+
+('french fries', 'red wine') >>> 40
+
+('meatballs', 'spaghetti') >>> 48
+
+('brownies', 'french fries') >>> 59
+
+('chocolate', 'tomatoes') >>> 105
+
+('eggs', 'tomato juice') >>> 38
+
+('fresh tuna', 'milk') >>> 36
+
+('eggs', 'french fries', 'frozen vegetables') >>> 39
+
+('cooking oil', 'mineral water', 'spaghetti') >>> 57
+
+('milk', 'mineral water', 'whole wheat rice') >>> 38
+
+('chocolate', 'cooking oil', 'eggs') >>> 34
+
+('mineral water', 'pancakes', 'shrimp') >>> 34
+
+('frozen smoothie', 'milk', 'spaghetti') >>> 42
+
+('chocolate', 'escalope', 'mineral water') >>> 42
+
+('eggs', 'herb & pepper', 'spaghetti') >>> 36
+
+('burgers', 'mineral water', 'spaghetti') >>> 49
+
+('eggs', 'green tea', 'spaghetti') >>> 43
+
+('chocolate', 'green tea', 'milk') >>> 35
+
+('green tea', 'milk', 'spaghetti') >>> 39
+
+('cooking oil', 'eggs', 'mineral water') >>> 48
+
+('chocolate', 'milk', 'pancakes') >>> 36
+
+('chocolate', 'olive oil', 'spaghetti') >>> 53
+
+('chocolate', 'milk', 'shrimp') >>> 41
+
+('chocolate', 'frozen vegetables', 'shrimp') >>> 40
+
+('frozen vegetables', 'mineral water', 'tomatoes') >>> 44
+
+('chocolate', 'frozen vegetables', 'mineral water') >>> 73
+
+('cake', 'eggs', 'mineral water') >>> 54
+
+('chocolate', 'mineral water', 'olive oil') >>> 62
+
+('milk', 'spaghetti', 'turkey') >>> 36
+
+('frozen vegetables', 'shrimp', 'spaghetti') >>> 45
+
+('ground beef', 'mineral water', 'tomatoes') >>> 41
+
+('eggs', 'french fries', 'spaghetti') >>> 60
+
+('eggs', 'ground beef', 'spaghetti') >>> 67
+
+('french fries', 'frozen vegetables', 'milk') >>> 43
+
+('chocolate', 'mineral water', 'spaghetti') >>> 119
+
+('burgers', 'eggs', 'mineral water') >>> 59
+
+('chicken', 'milk', 'mineral water') >>> 50
+
+('frozen vegetables', 'green tea', 'mineral water') >>> 34
+
+('chocolate', 'spaghetti', 'tomatoes') >>> 37
+
+('frozen vegetables', 'ground beef', 'milk') >>> 43
+
+('eggs', 'milk', 'mineral water') >>> 98
+
+('chocolate', 'ground beef', 'milk') >>> 46
+
+('eggs', 'mineral water', 'pancakes') >>> 59
+
+('ground beef', 'mineral water', 'soup') >>> 38
+
+('chocolate', 'frozen vegetables', 'ground beef') >>> 43
+
+('ground beef', 'mineral water', 'olive oil') >>> 50
+
+('eggs', 'frozen vegetables', 'milk') >>> 55
+
+('chocolate', 'french fries', 'milk') >>> 55
+
+('french fries', 'frozen vegetables', 'mineral water') >>> 46
+
+('low fat yogurt', 'milk', 'mineral water') >>> 36
+
+('french fries', 'milk', 'spaghetti') >>> 48
+
+('eggs', 'olive oil', 'spaghetti') >>> 38
+
+('eggs', 'spaghetti', 'turkey') >>> 39
+
+('ground beef', 'herb & pepper', 'spaghetti') >>> 48
+
+('chocolate', 'low fat yogurt', 'mineral water') >>> 43
+
+('ground beef', 'milk', 'mineral water') >>> 83
+
+('milk', 'pancakes', 'spaghetti') >>> 37
+
+('green tea', 'olive oil', 'spaghetti') >>> 34
+
+('chocolate', 'french fries', 'frozen vegetables') >>> 42
+
+('milk', 'mineral water', 'soup') >>> 64
+
+('chocolate', 'eggs', 'french fries') >>> 63
+
+('cake', 'french fries', 'mineral water') >>> 48
+
+('chocolate', 'eggs', 'ground beef') >>> 49
+
+('chocolate', 'frozen smoothie', 'mineral water') >>> 38
+
+('green tea', 'milk', 'mineral water') >>> 43
+
+('frozen smoothie', 'mineral water', 'spaghetti') >>> 51
+
+('frozen vegetables', 'milk', 'shrimp') >>> 35
+
+('low fat yogurt', 'mineral water', 'spaghetti') >>> 42
+
+('frozen smoothie', 'milk', 'mineral water') >>> 46
+
+('cake', 'eggs', 'spaghetti') >>> 36
+
+('mineral water', 'spaghetti', 'whole wheat rice') >>> 47
+
+('burgers', 'eggs', 'spaghetti') >>> 54
+
+('burgers', 'chocolate', 'eggs') >>> 41
+
+('chocolate', 'mineral water', 'tomatoes') >>> 43
+
+('chocolate', 'green tea', 'mineral water') >>> 52
+
+('grated cheese', 'ground beef', 'spaghetti') >>> 40
+
+('cake', 'mineral water', 'spaghetti') >>> 53
+
+('eggs', 'green tea', 'mineral water') >>> 52
+
+('french fries', 'ground beef', 'mineral water') >>> 40
+
+('ground beef', 'pancakes', 'spaghetti') >>> 48
+
+('frozen vegetables', 'spaghetti', 'tomatoes') >>> 50
+
+('frozen vegetables', 'mineral water', 'shrimp') >>> 54
+
+('eggs', 'low fat yogurt', 'mineral water') >>> 46
+
+('burgers', 'chocolate', 'spaghetti') >>> 48
+
+('frozen vegetables', 'milk', 'olive oil') >>> 36
+
+('milk', 'mineral water', 'shrimp') >>> 59
+
+('chocolate', 'french fries', 'spaghetti') >>> 60
+
+('ground beef', 'mineral water', 'pancakes') >>> 56
+
+('chocolate', 'frozen vegetables', 'spaghetti') >>> 59
+
+('eggs', 'frozen vegetables', 'mineral water') >>> 68
+
+('frozen vegetables', 'mineral water', 'pancakes') >>> 46
+
+('chicken', 'chocolate', 'milk') >>> 34
+
+('french fries', 'pancakes', 'spaghetti') >>> 43
+
+('eggs', 'pancakes', 'spaghetti') >>> 50
+
+('chocolate', 'eggs', 'milk') >>> 69
+
+('ground beef', 'milk', 'spaghetti') >>> 73
+
+('eggs', 'mineral water', 'turkey') >>> 42
+
+('frozen vegetables', 'ground beef', 'mineral water') >>> 69
+
+('eggs', 'ground beef', 'mineral water') >>> 76
+
+('cooking oil', 'ground beef', 'spaghetti') >>> 36
+
+('chocolate', 'mineral water', 'shrimp') >>> 57
+
+('milk', 'mineral water', 'olive oil') >>> 64
+
+('burgers', 'eggs', 'green tea') >>> 45
+
+('french fries', 'milk', 'mineral water') >>> 62
+
+('chocolate', 'french fries', 'pancakes') >>> 41
+
+('chocolate', 'escalope', 'french fries') >>> 39
+
+('eggs', 'french fries', 'milk') >>> 54
+
+('burgers', 'ground beef', 'spaghetti') >>> 41
+
+('ground beef', 'shrimp', 'spaghetti') >>> 45
+
+('mineral water', 'soup', 'spaghetti') >>> 56
+
+('chocolate', 'milk', 'mineral water') >>> 105
+
+('frozen vegetables', 'olive oil', 'spaghetti') >>> 43
+
+('olive oil', 'pancakes', 'spaghetti') >>> 38
+
+('milk', 'shrimp', 'spaghetti') >>> 37
+
+('mineral water', 'salmon', 'spaghetti') >>> 51
+
+('green tea', 'mineral water', 'spaghetti') >>> 62
+
+('cake', 'eggs', 'french fries') >>> 34
+
+('chocolate', 'frozen smoothie', 'spaghetti') >>> 35
+
+('cake', 'chocolate', 'spaghetti') >>> 39
+
+('burgers', 'milk', 'mineral water') >>> 52
+
+('chocolate', 'eggs', 'pancakes') >>> 42
+
+('chocolate', 'eggs', 'mineral water') >>> 101
+
+('cooking oil', 'milk', 'mineral water') >>> 35
+
+('milk', 'mineral water', 'tomatoes') >>> 49
+
+('chicken', 'chocolate', 'mineral water') >>> 57
+
+('chocolate', 'green tea', 'spaghetti') >>> 53
+
+('chocolate', 'eggs', 'green tea') >>> 41
+
+('grated cheese', 'ground beef', 'mineral water') >>> 38
+
+('mineral water', 'pancakes', 'spaghetti') >>> 86
+
+('ground beef', 'spaghetti', 'tomatoes') >>> 42
+
+('french fries', 'ground beef', 'spaghetti') >>> 42
+
+('chocolate', 'eggs', 'frozen vegetables') >>> 43
+
+('mineral water', 'olive oil', 'shrimp') >>> 34
+
+('chicken', 'mineral water', 'spaghetti') >>> 52
+
+('chocolate', 'pancakes', 'spaghetti') >>> 51
+
+('chocolate', 'frozen vegetables', 'milk') >>> 60
+
+('burgers', 'eggs', 'milk') >>> 40
+
+('chocolate', 'cooking oil', 'mineral water') >>> 43
+
+('french fries', 'mineral water', 'spaghetti') >>> 76
+
+('frozen vegetables', 'milk', 'spaghetti') >>> 62
+
+('eggs', 'mineral water', 'tomatoes') >>> 38
+
+('burgers', 'french fries', 'spaghetti') >>> 42
+
+('ground beef', 'mineral water', 'shrimp') >>> 38
+
+('green tea', 'ground beef', 'mineral water') >>> 39
+
+('eggs', 'mineral water', 'spaghetti') >>> 107
+
+('chocolate', 'french fries', 'mineral water') >>> 64
+
+('french fries', 'green tea', 'mineral water') >>> 46
+
+('chocolate', 'ground beef', 'mineral water') >>> 82
+
+('burgers', 'frozen vegetables', 'mineral water') >>> 37
+
+('frozen vegetables', 'ground beef', 'spaghetti') >>> 65
+
+('grated cheese', 'mineral water', 'spaghetti') >>> 47
+
+('burgers', 'chocolate', 'mineral water') >>> 43
+
+('mineral water', 'shrimp', 'spaghetti') >>> 64
+
+('ground beef', 'olive oil', 'spaghetti') >>> 46
+
+('chicken', 'ground beef', 'spaghetti') >>> 36
+
+('eggs', 'frozen vegetables', 'spaghetti') >>> 43
+
+('burgers', 'eggs', 'french fries') >>> 68
+
+('chocolate', 'milk', 'olive oil') >>> 39
+
+('eggs', 'french fries', 'pancakes') >>> 36
+
+('milk', 'spaghetti', 'tomatoes') >>> 44
+
+('chocolate', 'mineral water', 'pancakes') >>> 70
+
+('burgers', 'french fries', 'green tea') >>> 41
+
+('burgers', 'milk', 'spaghetti') >>> 48
+
+('chocolate', 'mineral water', 'salmon') >>> 34
+
+('chocolate', 'milk', 'spaghetti') >>> 82
+
+('french fries', 'mineral water', 'pancakes') >>> 49
+
+('chocolate', 'mineral water', 'soup') >>> 42
+
+('mineral water', 'spaghetti', 'tomatoes') >>> 70
+
+('green tea', 'pancakes', 'spaghetti') >>> 37
+
+('ground beef', 'low fat yogurt', 'mineral water') >>> 36
+
+('chocolate', 'shrimp', 'spaghetti') >>> 48
+
+('chicken', 'mineral water', 'pancakes') >>> 36
+
+('burgers', 'ground beef', 'mineral water') >>> 40
+
+('chocolate', 'eggs', 'spaghetti') >>> 79
+
+('milk', 'soup', 'spaghetti') >>> 34
+
+('frozen vegetables', 'low fat yogurt', 'mineral water') >>> 34
+
+('mineral water', 'spaghetti', 'turkey') >>> 48
+
+('eggs', 'mineral water', 'olive oil') >>> 44
+
+('frozen vegetables', 'milk', 'mineral water') >>> 83
+
+('mineral water', 'olive oil', 'soup') >>> 39
+
+('cooking oil', 'mineral water', 'pancakes') >>> 35
+
+('eggs', 'herb & pepper', 'mineral water') >>> 40
+
+('burgers', 'green tea', 'spaghetti') >>> 36
+
+('french fries', 'green tea', 'spaghetti') >>> 40
+
+('frozen vegetables', 'mineral water', 'soup') >>> 38
+
+('burgers', 'chocolate', 'milk') >>> 41
+
+('green tea', 'mineral water', 'pancakes') >>> 43
+
+('cake', 'chocolate', 'mineral water') >>> 42
+
+('chicken', 'eggs', 'mineral water') >>> 39
+
+('ground beef', 'milk', 'olive oil') >>> 37
+
+('chocolate', 'ground beef', 'spaghetti') >>> 69
+
+('cake', 'frozen vegetables', 'mineral water') >>> 36
+
+('burgers', 'chocolate', 'french fries') >>> 36
+
+('burgers', 'french fries', 'mineral water') >>> 39
+
+('eggs', 'milk', 'spaghetti') >>> 67
+
+('mineral water', 'olive oil', 'spaghetti') >>> 77
+
+('escalope', 'mineral water', 'spaghetti') >>> 36
+
+('milk', 'olive oil', 'spaghetti') >>> 54
+
+('milk', 'mineral water', 'pancakes') >>> 59
+
+('chicken', 'milk', 'spaghetti') >>> 41
+
+('cake', 'milk', 'mineral water') >>> 48
+
+('green tea', 'ground beef', 'spaghetti') >>> 48
+
+('milk', 'mineral water', 'turkey') >>> 46
+
+('cookies', 'french fries', 'green tea') >>> 35
+
+('mineral water', 'pancakes', 'tomatoes') >>> 35
+
+('eggs', 'french fries', 'green tea') >>> 53
+
+('eggs', 'french fries', 'mineral water') >>> 52
+
+('mineral water', 'olive oil', 'pancakes') >>> 35
+
+('ground beef', 'mineral water', 'spaghetti') >>> 128
+
+('milk', 'mineral water', 'spaghetti') >>> 118
+
+('french fries', 'frozen vegetables', 'spaghetti') >>> 40
+
+('eggs', 'mineral water', 'soup') >>> 37
+
+('chocolate', 'french fries', 'green tea') >>> 39
+
+('frozen vegetables', 'mineral water', 'spaghetti') >>> 90
+
+('burgers', 'french fries', 'milk') >>> 42
+
+('frozen vegetables', 'mineral water', 'olive oil') >>> 49
+
+('herb & pepper', 'mineral water', 'spaghetti') >>> 45
+
+('eggs', 'ground beef', 'milk') >>> 44
+
+('eggs', 'mineral water', 'shrimp') >>> 39
+
+('eggs', 'milk', 'pancakes') >>> 35
+
+('ground beef', 'herb & pepper', 'mineral water') >>> 50
+
+('burgers', 'cake', 'mineral water') >>> 36
+
+('french fries', 'green tea', 'pancakes') >>> 34
+
+('chocolate', 'eggs', 'mineral water', 'spaghetti') >>> 34
+
+('chocolate', 'milk', 'mineral water', 'spaghetti') >>> 37
+
+('frozen vegetables', 'milk', 'mineral water', 'spaghetti') >>> 34
+
