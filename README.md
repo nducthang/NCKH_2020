@@ -108,7 +108,8 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/Sentiment%20Analysis%20VietNamese">[Hoàn Thành] 18.2 Project - Phân loại sắc thái bình luận trong Tiếng Việt</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch02.%20C%C3%A1c%20c%C3%B4ng%20c%E1%BB%A5%20cho%20Data%20Science.ipynb">[Hoàn Thành] 18.3 Các công cụ cho Data Science</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/DataScience/Ch03.%20Th%E1%BB%91ng%20k%C3%AA%20m%C3%B4%20t%E1%BA%A3.ipynb">[Hoàn Thành] 18.4 Thống kê mô tả</a><br/>
-<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Decision%20Tree%20ML/Decision_Tree.ipynb">[Hoàn Thành] 18.5 Decision Tree - ID3</a><br/>
+
+<a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/Data_Mining_python">[Hoàn Thành] 18.5 Data Mining</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/apriori_ml.ipynb">[Hoàn Thành] 18.6 Khai thác luật kết hợp Apriori</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/Data_mining/Apriori_Algorithm/LuatKetHop_Aprior.pdf">Báo cáo tham khảo</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/K-fold.ipynb">[Hoàn Thành] 18.7 K-Fold Cross Validation</a><br/>
 <a href="https://github.com/nducthang/BERT-Tweet-Sentiment-Kaggle">[Hoàn Thành] 18.8 Họ mô hình ngôn ngữ BERT và ứng dụng</a><br/>
