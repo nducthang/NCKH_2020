@@ -35,7 +35,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 | Bài 4 | Bài 5
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter09%20-%20Improving%20retention%20with%20long%20short-term%20memory%20networks/BiLSTM%20v%E1%BB%9Bi%20Tensorflow.ipynb">[Hoàn Thành] 19. Bi-LSTM với Tensorflow</a> <br/>
 ## Chương 10: Mô hình Sequence to Sequence
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter10%20-%20Sequence-to-sequenct%20models%20and%20attention/Seq2seq.ipynb">[Hoàn Thành] 20. Seq2Seq </a><br/>
-[Chưa Hoàn Thành] 21. Cơ chế Attention<br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter10%20-%20Sequence-to-sequenct%20models%20and%20attention/Attention.pdf">[Hoàn Thành] 21. Cơ chế Attention </a><br/>
 ## Chương 11: POS Tagging
 <a href="https://github.com/nducthang/Pos-tagging-tensorflow">[Hoàn Thành] 22. Project 1 - Bài toán gán nhãn từ loại trong câu (sử dụng Tensorflow)</a> <br/>
 ## Chương 12: Chatbot
