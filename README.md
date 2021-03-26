@@ -68,7 +68,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/Detect-field">[Hoàn Thành] 16.3 Lý thuyết: Faster R-CNNs, Mask R-CNN</a>  <br/>
 [Chưa Hoàn Thành] 16.4 Code: Faster R-CNN, Mask R-CNN <br/>
 [Chưa Hoàn Thành] 16.5 SSDs <br/>
-[Chưa Hoàn Thành] 16.6 YOLO <br/>
+<a href="https://github.com/nducthang/Active-learning-for-object-detection">[Hoàn Thành] 16.6 YOLO<a/><br/>
 ## Chương 17: Dịch sách Speech and Language Processing
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter17%20-%20NLP/NLP__Le_Hoang_Ngan.pdf">[Hoàn Thành] 17.1 Xử lý ngôn ngữ tự nhiên (Phần 1)</a> <br/>
 ### Nội dung:
@@ -126,7 +126,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 [Chưa Hoàn Thành] 18.20 Polynote <br/>
 <a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/TensorFlow2">[Đang tiến hành] 18.21 Tensor Flow 2.0</a><br/>
 ## Chương 19: Pytorch
-[Chưa Hoàn Thành] 19.1 Các khái niệm cơ bản trong Pytorch <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Pytorch/01.%20C%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20trong%20Pytorch.ipynb">[Hoàn Thành] 19.1 Các khái niệm cơ bản trong Pytorch</a><br/>
 [Chưa Hoàn Thành] 19.2 Xây dựng mô hình hồi quy tuyến tính với Pytorch <br/>
 [Chưa Hoàn Thành] 19.3 Xây dựng mô hình CNN cho phân loại ảnh với Pytorch <br/>
 [Chưa Hoàn Thành] 19.4 Xây dựng mô hình RNN, LSTM với Pytorch <br/>
