@@ -127,9 +127,7 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/tree/master/Chapter18%20-%20Summary/TensorFlow2">[Đang tiến hành] 18.21 Tensor Flow 2.0</a><br/>
 ## Chương 19: Pytorch
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Pytorch/01.%20C%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20trong%20Pytorch.ipynb">[Hoàn Thành] 19.1 Các khái niệm cơ bản trong Pytorch</a><br/>
-[Chưa Hoàn Thành] 19.2 Xây dựng mô hình hồi quy tuyến tính với Pytorch <br/>
-[Chưa Hoàn Thành] 19.3 Xây dựng mô hình CNN cho phân loại ảnh với Pytorch <br/>
-[Chưa Hoàn Thành] 19.4 Xây dựng mô hình RNN, LSTM với Pytorch <br/>
-[Chưa Hoàn Thành] 19.5 Xây dựng mô hình seq2seq, attention với Pytorch <br/>
-[Chưa Hoàn Thành] 19.6 Hook trong Pytorch <br/>
-[Chưa Hoàn Thành] 19.7 Tensorborad với Pytorch <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Pytorch/02.%20X%C3%A2y%20d%E1%BB%B1ng%20m%C3%B4%20h%C3%ACnh%20CNN%20cho%20ph%C3%A2n%20lo%E1%BA%A1i%20%E1%BA%A3nh%20v%E1%BB%9Bi%20Pytorch.ipynb">[Hoàn Thành] 19.2 Xây dựng mô hình CNN cho phân loại ảnh với Pytorch<a/><br/>
+[Chưa Hoàn Thành] 19.3 Hook trong Pytorch <br/>
+[Chưa Hoàn Thành] 19.4 Dataset, DatasetLoader <br/>
+[Chưa Hoàn Thành] 19.5 Tensorboard với Pytorch <br/>
