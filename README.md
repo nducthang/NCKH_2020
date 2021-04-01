@@ -113,11 +113,11 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/K-fold.ipynb">[Hoàn Thành] 18.7 K-Fold Cross Validation</a><br/>
 <a href="https://github.com/nducthang/BERT-Tweet-Sentiment-Kaggle">[Hoàn Thành] 18.8 Họ mô hình ngôn ngữ BERT và ứng dụng</a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/NLP.pdf">[Hoàn Thành] 18.9 Word2vec (Tham khảo) - TS. Đặng Minh Tuấn</a><br/>
-[Chưa Hoàn Thành] 18.10 FastAPI <br/>
-[Chưa Hoàn Thành] 18.11 Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
-[Chưa Hoàn Thành] 18.12 Heatmap <br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/streamlit/pdf/01_get_started.pdf">[Hoàn Thành] 18.10 Stream lit - Get Staterd </a><br/>
+<a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/streamlit/pdf/02.data_eplorer.pdf">[Hoàn Thành] 18.11 Streamlit - Data Exploer</a><br/>
+<a href="https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py">[Hoàn Thành] 18.12 Streamlit Cheat sheet</a> | <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter18%20-%20Summary/streamlit/03_cheat_sheet.py">Code</a><br/>
 [Chưa Hoàn Thành] 18.13 Thuật toán phân cụm Annoy <br/>
-[Chưa Hoàn Thành] 18.14 Streamlit <br/>
+[Chưa Hoàn Thành] 18.14 Thuật toán Beam Search và ứng dụng bài toán sửa lỗi chính tả tiếng Việt <br/>
 [Chưa Hoàn Thành] 18.15 Grid Search CV <br/>
 [Chưa Hoàn Thành] 18.16 Light-GBM <br/>
 [Chưa Hoàn Thành] 18.17 Crawl dữ liệu với Scrapy kết hợp Splash <br/>
