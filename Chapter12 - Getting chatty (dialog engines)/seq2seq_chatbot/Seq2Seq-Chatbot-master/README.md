@@ -51,38 +51,6 @@ To Train Model from Python Console:
 Config1:Model was able to train to `Accuracy of 62%` and `Loss of 19%` and after that it was overfitting
 Config2:Model was able to train to `Accuracy of 63%` and `Loss of 18%` and after that it was overfitting
 
-### Accuracy
-## Config1
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Accuracy1.jpg" alt="alt text" width="500" height="300">
-
-### Loss
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Loss1.jpg" alt="alt text" width="500" height="300">
-
-## Config2
-### Accuracy
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Accuracy2.jpg" alt="alt text" width="500" height="300">
-
-### Loss
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Loss2.jpg" alt="alt text" width="500" height="300">
-
-### Chat Results
-```
-Human :hey
-Bot :hi
-Human :what doing
-Bot :sleep
-Human :when will you be okay
-Bot :just few days 
-Human :where are you from
-Bot :southern california
-Human :who am i
-Bot :doctor livingston
-Human :really well
-Bot :goodbye
-```
-Bot reply Result in web app
-
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Result.jpg" alt="alt text" width="700" height="500">
 
 
 
