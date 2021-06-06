@@ -132,3 +132,6 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Pytorch/04.%20Datasets%20v%C3%A0%20DataLoaders.ipynb">[Hoàn Thành] 19.4 Datasets và DataLoaders</a> <br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Pytorch/05.%20Tensorboard%20v%E1%BB%9Bi%20Pytorch.ipynb">[Hoàn Thành] 19.5 Tensorboard với Pytorch </a><br/>
 <a href="https://github.com/nducthang/NCKH_2020/blob/master/Chapter19%20-%20Pytorch/cheatsheet_pytorch.pdf">[Hoàn Thành] 19.6 Pytorch cheat sheet</a><br/>
+## Chương 20: Research paper
+<a href="./Chapter20 - Research Paper/01. Attention is not Explanation.pdf">01. Attention is not Explanation</a><br/>
+<a href="./Chapter20 - Research Paper/02. Slide_few_shot_learning.pdf">02. Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning</a><br/>
