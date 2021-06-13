@@ -135,3 +135,4 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 ## Chương 20: Research paper
 <a href="./Chapter20 - Research Paper/01. Attention is not Explanation.pdf">01. Attention is not Explanation</a><br/>
 <a href="./Chapter20 - Research Paper/02. Slide_few_shot_learning.pdf">02. Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning</a><br/>
+<a href="./Chapter20 - Research Paper/03. Slide_Influence_functions.pdf">03. Understanding black-box predictions via Influence Functions</a><br/>
