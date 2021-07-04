@@ -136,3 +136,4 @@ Solution: Bài 1 | Bài 2 | Bài 3 <br/>
 <a href="./Chapter20 - Research Paper/01. Attention is not Explanation.pdf">01. Attention is not Explanation</a><br/>
 <a href="./Chapter20 - Research Paper/02. Slide_few_shot_learning.pdf">02. Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning</a><br/>
 <a href="./Chapter20 - Research Paper/03. Slide_Influence_functions.pdf">03. Understanding black-box predictions via Influence Functions</a><br/>
+<a href="./Chapter20 - Research Paper/04. Slide__FASTIF__Scalabel_Influence_Functions_for_Efficient_Model_Interpretation_and_Debugging.pdf">FASTIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging</a><br/>
